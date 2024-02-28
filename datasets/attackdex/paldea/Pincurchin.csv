@@ -1,0 +1,53 @@
+name,source,type,category,power,accuracy,pp
+Peck,nature,flying,physical,35,100,35
+Thunder Shock,nature,electric,special,40,100,30
+Water Gun,lv. 5,water,special,40,100,25
+Charge,lv. 10,electric,other,--,101,20
+Fury Attack,lv. 15,normal,physical,15,85,20
+Spark,lv. 20,electric,physical,65,100,20
+Bubble Beam,lv. 25,water,special,65,100,20
+Recover,lv. 30,normal,other,--,101,5
+Curse,lv. 35,ghost,other,--,101,10
+Electric Terrain,lv. 40,electric,other,--,101,10
+Poison Jab,lv. 45,poison,physical,80,100,20
+Zing Zap,lv. 50,electric,physical,80,100,10
+Acupressure,lv. 55,normal,other,--,101,30
+Discharge,lv. 60,electric,special,80,100,15
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Chilling Water,TM022,water,special,50,100,20
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Electro Ball,TM072,electric,special,??,100,10
+Thunder Wave,TM082,electric,other,--,90,20
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Spikes,TM090,ground,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Reversal,TM134,fighting,physical,??,100,15
+Electric Terrain,TM136,electric,other,--,101,10
+Hydro Pump,TM142,water,special,110,80,5
+Wild Charge,TM147,electric,physical,90,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Scald,TM188,water,special,80,100,15
+Pain Split,TM202,normal,other,--,101,20
+Muddy Water,TM209,water,special,90,85,10
+Supercell Slam,TM210,electric,physical,100,95,15
+Electroweb,TM211,electric,special,55,95,15
+Throat Chop,TM221,dark,physical,80,100,15
+Curse,TM224,ghost,other,--,101,10

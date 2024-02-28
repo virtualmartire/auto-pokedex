@@ -1,0 +1,60 @@
+name,source,type,category,power,accuracy,pp
+Peck,nature,flying,physical,35,100,35
+Astonish,nature,ghost,physical,30,100,15
+Gust,lv. 5,flying,special,40,100,35
+Haze,lv. 11,ice,other,--,101,30
+Wing Attack,lv. 15,flying,physical,60,100,35
+Night Shade,lv. 21,ghost,special,??,100,15
+Assurance,lv. 25,dark,physical,60,100,10
+Taunt,lv. 31,dark,other,--,100,20
+Mean Look,lv. 35,normal,other,--,101,5
+Foul Play,lv. 40,dark,physical,95,100,15
+Sucker Punch,lv. 50,dark,physical,70,100,5
+Torment,lv. 55,dark,other,--,100,15
+Quash,lv. 60,dark,other,--,100,15
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Acrobatics,TM014,flying,physical,55,100,15
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Hex,TM029,ghost,special,65,100,10
+Snarl,TM030,dark,special,55,95,15
+Icy Wind,TM034,ice,special,55,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Night Shade,TM042,ghost,special,??,100,15
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Foul Play,TM062,dark,physical,95,100,15
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Dark Pulse,TM094,dark,special,80,100,15
+Fly,TM097,flying,physical,90,95,15
+Substitute,TM103,normal,other,--,101,10
+Tailwind,TM113,flying,other,--,101,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Heat Wave,TM118,fire,special,95,90,10
+Psychic,TM120,psychic,special,90,100,10
+Calm Mind,TM129,psychic,other,--,101,20
+Nasty Plot,TM140,dark,other,--,101,20
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Spite,TM177,ghost,other,--,100,10
+Uproar,TM191,normal,special,90,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Feather Dance,TM216,flying,other,--,100,15
+Psychic Noise,TM228,psychic,special,75,100,10

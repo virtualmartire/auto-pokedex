@@ -1,0 +1,44 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Absorb,nature,grass,special,20,100,25
+Stun Spore,lv. 5,grass,other,--,75,30
+Leech Seed,lv. 8,grass,other,--,90,10
+Mega Drain,lv. 12,grass,special,40,100,15
+Headbutt,lv. 15,normal,physical,70,100,15
+Poison Powder,lv. 19,poison,other,--,75,35
+Giga Drain,lv. 26,grass,special,75,100,10
+Growth,lv. 29,normal,other,--,101,20
+Toxic,lv. 33,poison,other,--,90,10
+Seed Bomb,lv. 36,grass,physical,80,100,15
+Spore,lv. 40,grass,other,--,100,15
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Fake Tears,TM003,dark,other,--,100,20
+Protect,TM007,normal,other,--,101,10
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+False Swipe,TM057,normal,physical,40,100,40
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Drain Punch,TM073,fighting,physical,75,100,10
+Grass Knot,TM081,grass,special,??,100,20
+Rest,TM085,psychic,other,--,101,5
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Helping Hand,TM130,normal,other,--,101,20
+Grassy Terrain,TM137,grass,other,--,101,10
+Sludge Bomb,TM148,poison,special,90,100,10
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10

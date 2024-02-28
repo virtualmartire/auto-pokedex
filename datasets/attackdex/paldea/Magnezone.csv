@@ -1,0 +1,62 @@
+name,source,type,category,power,accuracy,pp
+Electric Terrain,nature,electric,other,--,101,10
+Mirror Coat,nature,psychic,special,??,100,20
+Magnetic Flux,nature,electric,other,--,101,20
+Tri Attack,nature,normal,special,80,100,10
+Tackle,nature,normal,physical,40,100,35
+Thunder Wave,nature,electric,other,--,90,20
+Thunder Shock,nature,electric,special,40,100,30
+Supersonic,nature,normal,other,--,55,20
+Electro Ball,lv. 12,electric,special,??,100,10
+Gyro Ball,lv. 16,steel,physical,??,100,5
+Spark,lv. 20,electric,physical,65,100,20
+Screech,lv. 24,normal,other,--,85,40
+Magnet Rise,lv. 28,electric,other,--,101,10
+Flash Cannon,lv. 34,steel,special,80,100,10
+Discharge,lv. 40,electric,special,80,100,15
+Metal Sound,lv. 46,steel,other,--,85,40
+Light Screen,lv. 52,psychic,other,--,101,30
+Lock-On,lv. 58,normal,other,--,101,5
+Zap Cannon,lv. 64,electric,special,120,50,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Endure,TM047,normal,other,--,101,10
+Volt Switch,TM048,electric,special,70,100,20
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Electro Ball,TM072,electric,special,??,100,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Body Press,TM089,fighting,physical,80,100,10
+Flash Cannon,TM093,steel,special,80,100,10
+Eerie Impulse,TM096,electric,other,--,100,15
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Heavy Slam,TM121,steel,physical,??,100,10
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Electric Terrain,TM136,electric,other,--,101,10
+Wild Charge,TM147,electric,physical,90,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Gravity,TM178,psychic,other,--,101,5
+Gyro Ball,TM180,steel,physical,??,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Supercell Slam,TM210,electric,physical,100,95,15
+Electroweb,TM211,electric,special,55,95,15
+Metal Sound,TM223,steel,other,--,85,40
+Hard Press,TM225,steel,physical,??,100,10

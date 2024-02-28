@@ -1,0 +1,54 @@
+name,source,type,category,power,accuracy,pp
+Ember,nature,fire,special,40,100,25
+Spite,nature,ghost,other,--,100,10
+Mean Look,nature,normal,other,--,101,5
+Flame Wheel,lv. 5,fire,physical,60,100,25
+Payback,lv. 10,dark,physical,50,100,10
+Will-O-Wisp,lv. 15,fire,other,--,85,15
+Flame Charge,lv. 20,fire,physical,50,100,20
+Incinerate,lv. 25,fire,special,60,100,15
+Confuse Ray,lv. 30,ghost,other,--,100,10
+Nasty Plot,lv. 35,dark,other,--,101,20
+Dark Pulse,lv. 40,dark,special,80,100,15
+Lava Plume,lv. 45,fire,special,80,100,15
+Ruination,lv. 50,dark,special,??,90,10
+Bounce,lv. 55,flying,physical,85,85,5
+Swagger,lv. 60,normal,other,--,85,15
+Inferno,lv. 65,fire,special,100,50,5
+Memento,lv. 70,dark,other,--,100,10
+Overheat,lv. 75,fire,special,130,90,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Snarl,TM030,dark,special,55,95,15
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Crunch,TM108,dark,physical,80,100,15
+Heat Wave,TM118,fire,special,95,90,10
+Psychic,TM120,psychic,special,90,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Nasty Plot,TM140,dark,other,--,101,20
+Fire Blast,TM141,fire,special,110,85,5
+Giga Impact,TM152,normal,physical,150,90,5
+Overheat,TM157,fire,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Burning Jealousy,TM195,fire,special,70,100,5
+Lash Out,TM199,dark,physical,75,100,5
+Temper Flare,TM207,fire,physical,75,100,10

@@ -1,0 +1,88 @@
+name,source,type,category,power,accuracy,pp
+Aura Sphere,lv. Evolve,fighting,special,80,101,20
+Copycat,nature,normal,other,--,101,20
+Feint,nature,normal,physical,30,100,10
+Helping Hand,nature,normal,other,--,101,20
+Rock Smash,nature,fighting,physical,40,100,15
+Metal Claw,nature,steel,physical,50,95,35
+Vacuum Wave,nature,fighting,special,40,100,30
+Detect,nature,fighting,other,--,101,5
+Reversal,nature,fighting,physical,??,100,15
+Screech,nature,normal,other,--,85,40
+Quick Attack,nature,normal,physical,40,100,30
+Final Gambit,nature,fighting,special,??,100,5
+Life Dew,nature,water,other,--,101,10
+Counter,lv. 12,fighting,physical,??,100,20
+Work Up,lv. 16,normal,other,--,101,30
+Force Palm,lv. 20,fighting,physical,60,100,10
+Calm Mind,lv. 24,psychic,other,--,101,20
+Metal Sound,lv. 28,steel,other,--,85,40
+Quick Guard,lv. 32,fighting,other,--,101,15
+Bone Rush,lv. 36,ground,physical,25,90,10
+Swords Dance,lv. 40,normal,other,--,101,20
+Heal Pulse,lv. 44,psychic,other,--,101,10
+Meteor Mash,lv. 48,steel,physical,90,90,10
+Dragon Pulse,lv. 52,dragon,special,85,100,10
+Extreme Speed,lv. 56,normal,physical,80,100,5
+Close Combat,lv. 60,fighting,physical,120,100,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Low Kick,TM012,fighting,physical,??,100,20
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Bulldoze,TM028,ground,physical,60,100,20
+Metal Claw,TM031,steel,physical,50,95,35
+Swift,TM032,normal,special,60,101,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Low Sweep,TM039,fighting,physical,65,100,20
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Shadow Claw,TM061,ghost,physical,70,100,15
+Bulk Up,TM064,fighting,other,--,101,20
+Body Slam,TM066,normal,physical,85,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Drain Punch,TM073,fighting,physical,75,100,10
+Metronome,TM080,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Swords Dance,TM088,normal,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Crunch,TM108,dark,physical,80,100,15
+Aura Sphere,TM112,fighting,special,80,101,20
+Shadow Ball,TM114,ghost,special,80,100,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Psychic,TM120,psychic,special,90,100,10
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Nasty Plot,TM140,dark,other,--,101,20
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Hyper Beam,TM163,normal,special,150,90,5
+Close Combat,TM167,fighting,physical,120,100,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Vacuum Wave,TM184,fighting,special,40,100,30
+Focus Punch,TM192,fighting,physical,150,100,20
+Psych Up,TM203,normal,other,--,101,10
+Coaching,TM213,fighting,other,--,101,10
+Metal Sound,TM223,steel,other,--,85,40
+Upper Hand,TM229,fighting,physical,65,100,15

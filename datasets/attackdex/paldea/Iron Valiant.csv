@@ -1,0 +1,85 @@
+name,source,type,category,power,accuracy,pp
+Disable,nature,normal,other,--,100,20
+Double Team,nature,normal,other,--,101,15
+Shadow Sneak,nature,ghost,physical,40,100,30
+Fury Cutter,nature,bug,physical,40,95,20
+Hypnosis,lv. 7,psychic,other,--,60,20
+Feint,lv. 14,normal,physical,30,100,10
+Future Sight,lv. 21,psychic,special,120,100,10
+Dazzling Gleam,lv. 28,fairy,special,80,100,10
+Psycho Cut,lv. 35,psychic,physical,70,100,20
+Night Slash,lv. 42,dark,physical,70,100,15
+Leaf Blade,lv. 49,grass,physical,90,100,15
+Moonblast,lv. 56,fairy,special,95,100,15
+Close Combat,lv. 63,fighting,physical,120,100,5
+Knock Off,lv. 70,dark,physical,65,100,20
+Destiny Bond,lv. 77,ghost,other,--,101,5
+Wide Guard,lv. 84,rock,other,--,101,10
+Quick Guard,lv. 84,fighting,other,--,101,15
+Spirit Break,lv. 91,fairy,physical,75,100,15
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Psybeam,TM016,psychic,special,65,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Charge Beam,TM023,electric,special,50,90,10
+Aerial Ace,TM027,flying,physical,60,101,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Stored Power,TM041,psychic,special,20,100,10
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Psyshock,TM054,psychic,special,80,100,10
+False Swipe,TM057,normal,physical,40,100,40
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Shadow Claw,TM061,ghost,physical,70,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Drain Punch,TM073,fighting,physical,75,100,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Metronome,TM080,normal,other,--,101,10
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Imprison,TM092,psychic,other,--,101,10
+Skill Swap,TM098,psychic,other,--,101,10
+Substitute,TM103,normal,other,--,101,10
+X-Scissor,TM105,bug,physical,80,100,15
+Trick,TM109,psychic,other,--,100,10
+Liquidation,TM110,water,physical,85,100,10
+Aura Sphere,TM112,fighting,special,80,101,20
+Shadow Ball,TM114,ghost,special,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Encore,TM122,normal,other,--,100,5
+Thunderbolt,TM126,electric,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Electric Terrain,TM136,electric,other,--,101,10
+Psychic Terrain,TM138,psychic,other,--,101,10
+Misty Terrain,TM139,fairy,other,--,101,10
+Giga Impact,TM152,normal,physical,150,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Trick Room,TM161,psychic,other,--,101,5
+Hyper Beam,TM163,normal,special,150,90,5
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Vacuum Wave,TM184,fighting,special,40,100,30
+Psych Up,TM203,normal,other,--,101,10
+Coaching,TM213,fighting,other,--,101,10
+Future Sight,TM217,psychic,special,120,100,10
+Expanding Force,TM218,psychic,special,80,100,10
+Throat Chop,TM221,dark,physical,80,100,15

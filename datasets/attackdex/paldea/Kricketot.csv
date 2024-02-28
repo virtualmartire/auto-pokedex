@@ -1,0 +1,11 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Growl,nature,normal,other,--,100,40
+Struggle Bug,lv. 6,bug,special,50,100,20
+Bug Bite,lv. 16,bug,physical,60,100,20
+Struggle Bug,TM015,bug,special,50,100,20
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Skitter Smack,TM219,bug,physical,70,90,10

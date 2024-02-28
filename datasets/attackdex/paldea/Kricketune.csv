@@ -1,0 +1,50 @@
+name,source,type,category,power,accuracy,pp
+Fury Cutter,lv. Evolve,bug,physical,40,95,20
+Tackle,nature,normal,physical,40,100,35
+Growl,nature,normal,other,--,100,40
+Absorb,lv. 14,grass,special,20,100,25
+Sing,lv. 18,normal,other,--,55,15
+Focus Energy,lv. 22,normal,other,--,101,30
+Slash,lv. 26,normal,physical,70,100,20
+X-Scissor,lv. 30,bug,physical,80,100,15
+Screech,lv. 34,normal,other,--,85,40
+Fell Stinger,lv. 36,bug,physical,50,100,25
+Taunt,lv. 38,dark,other,--,100,20
+Night Slash,lv. 42,dark,physical,70,100,15
+Sticky Web,lv. 44,bug,other,--,101,20
+Bug Buzz,lv. 46,bug,special,90,100,10
+Perish Song,lv. 50,normal,other,--,101,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Struggle Bug,TM015,bug,special,50,100,20
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+False Swipe,TM057,normal,physical,40,100,40
+Brick Break,TM058,fighting,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Leech Life,TM095,bug,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+X-Scissor,TM105,bug,physical,80,100,15
+Giga Drain,TM111,grass,special,75,100,10
+Hyper Voice,TM117,normal,special,90,100,10
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Giga Impact,TM152,normal,physical,150,90,5
+Bug Buzz,TM162,bug,special,90,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Uproar,TM191,normal,special,90,100,10
+Endeavor,TM205,normal,physical,??,100,5
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15

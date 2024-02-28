@@ -1,0 +1,65 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Confusion,nature,psychic,special,50,100,25
+Confuse Ray,lv. 4,ghost,other,--,100,10
+Payback,lv. 8,dark,physical,50,100,10
+Imprison,lv. 12,psychic,other,--,101,10
+Gyro Ball,lv. 16,steel,physical,??,100,5
+Hypnosis,lv. 20,psychic,other,--,60,20
+Safeguard,lv. 24,normal,other,--,101,25
+Extrasensory,lv. 28,psychic,special,80,100,20
+Heavy Slam,lv. 32,steel,physical,??,100,10
+Iron Defense,lv. 36,steel,other,--,101,15
+Metal Sound,lv. 40,steel,other,--,85,40
+Future Sight,lv. 44,psychic,special,120,100,10
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Hex,TM029,ghost,special,65,100,10
+Rock Tomb,TM036,rock,physical,60,95,15
+Stored Power,TM041,psychic,special,20,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Psyshock,TM054,psychic,special,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rock Blast,TM076,rock,physical,25,90,10
+Grass Knot,TM081,grass,special,??,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Imprison,TM092,psychic,other,--,101,10
+Flash Cannon,TM093,steel,special,80,100,10
+Skill Swap,TM098,psychic,other,--,101,10
+Iron Head,TM099,steel,physical,80,100,15
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Psychic,TM120,psychic,special,90,100,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Ice Spinner,TM124,ice,physical,80,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Psychic Terrain,TM138,psychic,other,--,101,10
+Earthquake,TM149,ground,physical,100,100,10
+Trick Room,TM161,psychic,other,--,101,5
+Solar Beam,TM168,grass,special,120,100,10
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Gravity,TM178,psychic,other,--,101,5
+Gyro Ball,TM180,steel,physical,??,100,5
+Psych Up,TM203,normal,other,--,101,10
+Future Sight,TM217,psychic,special,120,100,10
+Expanding Force,TM218,psychic,special,80,100,10
+Metal Sound,TM223,steel,other,--,85,40

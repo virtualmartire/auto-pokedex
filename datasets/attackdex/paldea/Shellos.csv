@@ -1,0 +1,48 @@
+name,source,type,category,power,accuracy,pp
+Water Gun,nature,water,special,40,100,25
+Mud-Slap,nature,ground,special,20,100,10
+Harden,lv. 5,normal,other,--,101,30
+Recover,lv. 10,normal,other,--,101,5
+Water Pulse,lv. 15,water,special,60,100,20
+Ancient Power,lv. 20,rock,special,60,100,5
+Body Slam,lv. 25,normal,physical,85,100,15
+Muddy Water,lv. 31,water,special,90,85,10
+Earth Power,lv. 35,ground,special,90,100,10
+Rain Dance,lv. 40,water,other,--,101,5
+Memento,lv. 45,dark,other,--,100,10
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Snowscape,TM052,ice,other,--,101,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Stealth Rock,TM116,rock,other,--,101,20
+Surf,TM123,water,special,90,100,15
+Amnesia,TM128,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Stone Edge,TM150,rock,physical,100,80,5
+Tera Blast,TM171,normal,special,80,100,10
+Pain Split,TM202,normal,other,--,101,20
+Whirlpool,TM208,water,special,35,85,15
+Muddy Water,TM209,water,special,90,85,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10

@@ -1,0 +1,44 @@
+name,source,type,category,power,accuracy,pp
+Growl,nature,normal,other,--,100,40
+Peck,nature,flying,physical,35,100,35
+Quick Attack,lv. 5,normal,physical,40,100,30
+Ember,lv. 10,fire,special,40,100,25
+Flail,lv. 15,normal,physical,??,100,15
+Acrobatics,lv. 20,flying,physical,55,100,15
+Agility,lv. 25,psychic,other,--,101,30
+Aerial Ace,lv. 30,flying,physical,60,101,20
+Tailwind,lv. 35,flying,other,--,101,15
+Steel Wing,lv. 40,steel,physical,70,90,25
+Roost,lv. 45,flying,other,--,101,5
+Fly,lv. 50,flying,physical,90,95,15
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Swift,TM032,normal,special,60,101,20
+Flame Charge,TM038,fire,physical,50,100,20
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Fly,TM097,flying,physical,90,95,15
+Substitute,TM103,normal,other,--,101,10
+Tailwind,TM113,flying,other,--,101,15
+Heat Wave,TM118,fire,special,95,90,10
+Overheat,TM157,fire,special,130,90,5
+Hurricane,TM160,flying,special,110,70,10
+Brave Bird,TM164,flying,physical,120,100,15
+Flare Blitz,TM165,fire,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Feather Dance,TM216,flying,other,--,100,15

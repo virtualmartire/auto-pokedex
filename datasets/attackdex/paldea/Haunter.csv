@@ -1,0 +1,71 @@
+name,source,type,category,power,accuracy,pp
+Shadow Punch,lv. Evolve,ghost,physical,60,101,20
+Hypnosis,nature,psychic,other,--,60,20
+Confuse Ray,nature,ghost,other,--,100,10
+Lick,nature,ghost,physical,30,100,30
+Mean Look,nature,normal,other,--,101,5
+Payback,lv. 12,dark,physical,50,100,10
+Spite,lv. 16,ghost,other,--,100,10
+Curse,lv. 20,ghost,other,--,101,10
+Hex,lv. 24,ghost,special,65,100,10
+Night Shade,lv. 30,ghost,special,??,100,15
+Sucker Punch,lv. 36,dark,physical,70,100,5
+Dark Pulse,lv. 42,dark,special,80,100,15
+Shadow Ball,lv. 48,ghost,special,80,100,15
+Destiny Bond,lv. 54,ghost,other,--,101,5
+Dream Eater,lv. 60,psychic,special,100,100,15
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Icy Wind,TM034,ice,special,55,95,15
+Night Shade,TM042,ghost,special,??,100,15
+Fling,TM043,dark,physical,??,100,10
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Shadow Claw,TM061,ghost,physical,70,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Metronome,TM080,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Imprison,TM092,psychic,other,--,101,10
+Dark Pulse,TM094,dark,special,80,100,15
+Skill Swap,TM098,psychic,other,--,101,10
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Trick,TM109,psychic,other,--,100,10
+Giga Drain,TM111,grass,special,75,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Encore,TM122,normal,other,--,100,5
+Thunderbolt,TM126,electric,special,90,100,15
+Nasty Plot,TM140,dark,other,--,101,20
+Sludge Bomb,TM148,poison,special,90,100,10
+Phantom Force,TM151,ghost,physical,90,100,10
+Focus Blast,TM158,fighting,special,120,70,5
+Trick Room,TM161,psychic,other,--,101,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Toxic,TM175,poison,other,--,90,10
+Spite,TM177,ghost,other,--,100,10
+Poltergeist,TM198,ghost,physical,110,90,5
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Sludge Wave,TM214,poison,special,95,100,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10

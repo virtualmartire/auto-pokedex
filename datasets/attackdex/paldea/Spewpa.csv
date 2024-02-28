@@ -1,0 +1,9 @@
+name,source,type,category,power,accuracy,pp
+Protect,lv. Evolve,normal,other,--,101,10
+Harden,nature,normal,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Struggle Bug,TM015,bug,special,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Iron Defense,TM104,steel,other,--,101,15
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20

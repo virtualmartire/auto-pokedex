@@ -1,0 +1,56 @@
+name,source,type,category,power,accuracy,pp
+Wrap,nature,normal,physical,15,90,20
+Leer,nature,normal,other,--,100,30
+Twister,lv. 5,dragon,special,40,100,20
+Thunder Wave,lv. 10,electric,other,--,90,20
+Dragon Tail,lv. 15,dragon,physical,60,90,10
+Agility,lv. 20,psychic,other,--,101,30
+Slam,lv. 25,normal,physical,80,75,20
+Aqua Tail,lv. 31,water,physical,90,90,10
+Dragon Rush,lv. 35,dragon,physical,100,75,10
+Safeguard,lv. 40,normal,other,--,101,25
+Rain Dance,lv. 45,water,other,--,101,5
+Dragon Dance,lv. 50,dragon,other,--,101,20
+Outrage,lv. 55,dragon,physical,120,100,10
+Hyper Beam,lv. 60,normal,special,150,90,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Light Screen,TM075,psychic,other,--,101,30
+Waterfall,TM077,water,physical,80,100,15
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Iron Head,TM099,steel,physical,80,100,15
+Dragon Dance,TM100,dragon,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Dragon Pulse,TM115,dragon,special,85,100,10
+Surf,TM123,water,special,90,100,15
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Draco Meteor,TM169,dragon,special,130,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Scale Shot,TM200,dragon,physical,25,90,20
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Dragon Cheer,TM226,dragon,other,--,101,15

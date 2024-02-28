@@ -1,0 +1,10 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Thunder Wave,nature,electric,other,--,90,20
+Spark,nature,electric,physical,65,100,20
+Charge Beam,nature,electric,special,50,90,10
+Charge Beam,TM023,electric,special,50,90,10
+Thunder Wave,TM082,electric,other,--,90,20
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Knock Off,TM181,dark,physical,65,100,20

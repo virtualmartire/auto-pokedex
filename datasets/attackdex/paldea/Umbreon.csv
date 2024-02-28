@@ -1,0 +1,73 @@
+name,source,type,category,power,accuracy,pp
+Snarl,lv. Evolve,dark,special,55,95,15
+Charm,nature,fairy,other,--,100,20
+Tackle,nature,normal,physical,40,100,35
+Take Down,nature,normal,physical,90,85,20
+Double-Edge,nature,normal,physical,120,100,15
+Tail Whip,nature,normal,other,--,100,30
+Bite,nature,dark,physical,60,100,25
+Growl,nature,normal,other,--,100,40
+Copycat,nature,normal,other,--,101,20
+Covet,nature,normal,physical,60,100,25
+Helping Hand,nature,normal,other,--,101,20
+Swift,nature,normal,special,60,101,20
+Baton Pass,nature,normal,other,--,101,40
+Sand Attack,lv. 5,ground,other,--,100,15
+Quick Attack,lv. 10,normal,physical,40,100,30
+Baby-Doll Eyes,lv. 15,fairy,other,--,100,30
+Confuse Ray,lv. 20,ghost,other,--,100,10
+Assurance,lv. 25,dark,physical,60,100,10
+Moonlight,lv. 30,fairy,other,--,101,5
+Guard Swap,lv. 35,psychic,other,--,101,10
+Dark Pulse,lv. 40,dark,special,80,100,15
+Screech,lv. 45,normal,other,--,85,40
+Mean Look,lv. 50,normal,other,--,101,5
+Last Resort,lv. 55,normal,physical,140,100,5
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Fake Tears,TM003,dark,other,--,100,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Snarl,TM030,dark,special,55,95,15
+Swift,TM032,normal,special,60,101,20
+Stored Power,TM041,psychic,special,20,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Dark Pulse,TM094,dark,special,80,100,15
+Skill Swap,TM098,psychic,other,--,101,10
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Toxic,TM175,poison,other,--,90,10
+Spite,TM177,ghost,other,--,100,10
+Weather Ball,TM193,normal,special,50,100,10
+Lash Out,TM199,dark,physical,75,100,5
+Psych Up,TM203,normal,other,--,101,10
+Double-Edge,TM204,normal,physical,120,100,15
+Throat Chop,TM221,dark,physical,80,100,15
+Curse,TM224,ghost,other,--,101,10
+Alluring Voice,TM227,fairy,special,80,100,10

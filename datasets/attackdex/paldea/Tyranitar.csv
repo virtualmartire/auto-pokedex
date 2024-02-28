@@ -1,0 +1,102 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Fire Fang,nature,fire,physical,65,95,15
+Leer,nature,normal,other,--,100,30
+Ice Fang,nature,ice,physical,65,95,15
+Rock Throw,nature,rock,physical,50,90,15
+Thunder Fang,nature,electric,physical,65,95,15
+Dark Pulse,nature,dark,special,80,100,15
+Payback,nature,dark,physical,50,100,10
+Iron Defense,nature,steel,other,--,101,15
+Bite,lv. 9,dark,physical,60,100,25
+Scary Face,lv. 12,normal,other,--,100,10
+Rock Slide,lv. 15,rock,physical,75,90,10
+Stomping Tantrum,lv. 18,ground,physical,75,100,10
+Screech,lv. 21,normal,other,--,85,40
+Smack Down,lv. 24,rock,physical,50,100,15
+Crunch,lv. 27,dark,physical,80,100,15
+Earthquake,lv. 33,ground,physical,100,100,10
+Stone Edge,lv. 37,rock,physical,100,80,5
+Thrash,lv. 42,normal,physical,120,100,10
+Sandstorm,lv. 47,rock,other,--,101,10
+Hyper Beam,lv. 52,normal,special,150,90,5
+Giga Impact,lv. 59,normal,physical,150,90,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Ice Fang,TM010,ice,physical,65,95,15
+Low Kick,TM012,fighting,physical,??,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Bulldoze,TM028,ground,physical,60,100,20
+Snarl,TM030,dark,special,55,95,15
+Icy Wind,TM034,ice,special,55,95,15
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Fling,TM043,dark,physical,??,100,10
+Dragon Tail,TM044,dragon,physical,60,90,10
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Shadow Claw,TM061,ghost,physical,70,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Dragon Claw,TM078,dragon,physical,80,100,15
+Thunder Wave,TM082,electric,other,--,90,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Taunt,TM087,dark,other,--,100,20
+Body Press,TM089,fighting,physical,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Iron Head,TM099,steel,physical,80,100,15
+Dragon Dance,TM100,dragon,other,--,101,20
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Crunch,TM108,dark,physical,80,100,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Stealth Rock,TM116,rock,other,--,101,20
+Heavy Slam,TM121,steel,physical,??,100,10
+Surf,TM123,water,special,90,100,15
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Ice Beam,TM135,ice,special,90,100,10
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Focus Blast,TM158,fighting,special,120,70,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Sand Tomb,TM176,ground,physical,35,85,15
+Spite,TM177,ghost,other,--,100,10
+Smack Down,TM179,rock,physical,50,100,15
+Knock Off,TM181,dark,physical,65,100,20
+High Horsepower,TM186,ground,physical,95,95,10
+Focus Punch,TM192,fighting,physical,150,100,20
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Muddy Water,TM209,water,special,90,85,10
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Curse,TM224,ghost,other,--,101,10
+Hard Press,TM225,steel,physical,??,100,10

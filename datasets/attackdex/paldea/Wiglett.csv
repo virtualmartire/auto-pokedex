@@ -1,0 +1,43 @@
+name,source,type,category,power,accuracy,pp
+Sand Attack,nature,ground,other,--,100,15
+Water Gun,nature,water,special,40,100,25
+Mud-Slap,lv. 4,ground,special,20,100,10
+Wrap,lv. 8,normal,physical,15,90,20
+Aqua Jet,lv. 12,water,physical,40,100,20
+Slam,lv. 20,normal,physical,80,75,20
+Water Pulse,lv. 20,water,special,60,100,20
+Headbutt,lv. 24,normal,physical,70,100,15
+Dig,lv. 28,ground,physical,80,100,10
+Sucker Punch,lv. 32,dark,physical,70,100,5
+Throat Chop,lv. 36,dark,physical,80,100,15
+Liquidation,lv. 40,water,physical,85,100,10
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Mud Shot,TM035,ground,special,55,95,15
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Tera Blast,TM171,normal,special,80,100,10
+Whirlpool,TM208,water,special,35,85,15
+Muddy Water,TM209,water,special,90,85,10
+Throat Chop,TM221,dark,physical,80,100,15

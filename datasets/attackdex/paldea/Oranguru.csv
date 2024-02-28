@@ -1,0 +1,69 @@
+name,source,type,category,power,accuracy,pp
+Confusion,nature,psychic,special,50,100,25
+Taunt,nature,dark,other,--,100,20
+After You,lv. 5,normal,other,--,101,15
+Calm Mind,lv. 10,psychic,other,--,101,20
+Stored Power,lv. 15,psychic,special,20,100,10
+Psych Up,lv. 20,normal,other,--,101,10
+Quash,lv. 25,dark,other,--,100,15
+Nasty Plot,lv. 30,dark,other,--,101,20
+Zen Headbutt,lv. 35,psychic,physical,80,90,15
+Trick Room,lv. 40,psychic,other,--,101,5
+Psychic,lv. 45,psychic,special,90,100,10
+Instruct,lv. 50,psychic,other,--,101,15
+Foul Play,lv. 55,dark,physical,95,100,15
+Future Sight,lv. 60,psychic,special,120,100,10
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Psybeam,TM016,psychic,special,65,100,20
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Stored Power,TM041,psychic,special,20,100,10
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Psyshock,TM054,psychic,special,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Taunt,TM087,dark,other,--,100,20
+Imprison,TM092,psychic,other,--,101,10
+Skill Swap,TM098,psychic,other,--,101,10
+Substitute,TM103,normal,other,--,101,10
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Encore,TM122,normal,other,--,100,5
+Thunderbolt,TM126,electric,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Psychic Terrain,TM138,psychic,other,--,101,10
+Nasty Plot,TM140,dark,other,--,101,20
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Trick Room,TM161,psychic,other,--,101,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Gravity,TM178,psychic,other,--,101,5
+Knock Off,TM181,dark,physical,65,100,20
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Endeavor,TM205,normal,physical,??,100,5
+Future Sight,TM217,psychic,special,120,100,10
+Expanding Force,TM218,psychic,special,80,100,10
+Psychic Noise,TM228,psychic,special,75,100,10

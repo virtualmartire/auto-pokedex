@@ -1,0 +1,63 @@
+name,source,type,category,power,accuracy,pp
+Reflect Type,nature,normal,other,--,101,15
+Wrap,nature,normal,physical,15,90,20
+Mud-Slap,nature,ground,special,20,100,10
+Absorb,lv. 4,grass,special,20,100,25
+Stun Spore,lv. 8,grass,other,--,75,30
+Poison Powder,lv. 8,poison,other,--,75,35
+Supersonic,lv. 12,normal,other,--,55,20
+Tackle,lv. 15,normal,physical,40,100,35
+Mega Drain,lv. 16,grass,special,40,100,15
+Screech,lv. 20,normal,other,--,85,40
+Mud Shot,lv. 24,ground,special,55,95,15
+Hex,lv. 28,ghost,special,65,100,10
+Seed Bomb,lv. 34,grass,physical,80,100,15
+Spore,lv. 40,grass,other,--,100,15
+Growth,lv. 44,normal,other,--,101,20
+Giga Drain,lv. 48,grass,special,75,100,10
+Earth Power,lv. 54,ground,special,90,100,10
+Power Whip,lv. 58,grass,physical,120,85,10
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Trailblaze,TM020,grass,physical,50,100,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Mud Shot,TM035,ground,special,55,95,15
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Grass Knot,TM081,grass,special,??,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Spikes,TM090,ground,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Earth Power,TM133,ground,special,90,100,10
+Grassy Terrain,TM137,grass,other,--,101,10
+Sludge Bomb,TM148,poison,special,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Leaf Storm,TM159,grass,special,130,90,5
+Trick Room,TM161,psychic,other,--,101,5
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Knock Off,TM181,dark,physical,65,100,20
+Lunge,TM185,bug,physical,80,100,15
+Grassy Glide,TM194,grass,physical,55,100,20
+Pain Split,TM202,normal,other,--,101,20
+Skitter Smack,TM219,bug,physical,70,90,10

@@ -1,0 +1,4 @@
+name,source,type,category,power,accuracy,pp
+Splash,nature,normal,other,--,101,40
+Tackle,lv. 15,normal,physical,40,100,35
+Flail,lv. 25,normal,physical,??,100,15

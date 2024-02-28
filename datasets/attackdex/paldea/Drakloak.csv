@@ -1,0 +1,60 @@
+name,source,type,category,power,accuracy,pp
+Dragon Pulse,lv. Evolve,dragon,special,85,100,10
+Infestation,nature,bug,special,20,100,20
+Bite,nature,dark,physical,60,100,25
+Quick Attack,nature,normal,physical,40,100,30
+Astonish,nature,ghost,physical,30,100,15
+Lock-On,lv. 6,normal,other,--,101,5
+Assurance,lv. 12,dark,physical,60,100,10
+Hex,lv. 18,ghost,special,65,100,10
+Agility,lv. 24,psychic,other,--,101,30
+Double Hit,lv. 30,normal,physical,35,90,10
+U-turn,lv. 36,bug,physical,70,100,20
+Dragon Dance,lv. 42,dragon,other,--,101,20
+Phantom Force,lv. 48,ghost,physical,90,100,10
+Take Down,lv. 54,normal,physical,90,85,20
+Dragon Rush,lv. 61,dragon,physical,100,75,10
+Double-Edge,lv. 66,normal,physical,120,100,15
+Last Resort,lv. 72,normal,physical,140,100,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Acrobatics,TM014,flying,physical,55,100,15
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Night Shade,TM042,ghost,special,??,100,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Dragon Dance,TM100,dragon,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Surf,TM123,water,special,90,100,15
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Phantom Force,TM151,ghost,physical,90,100,10
+Outrage,TM156,dragon,physical,120,100,10
+Thunder,TM166,electric,special,110,70,10
+Draco Meteor,TM169,dragon,special,130,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Double-Edge,TM204,normal,physical,120,100,15
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Curse,TM224,ghost,other,--,101,10
+Dragon Cheer,TM226,dragon,other,--,101,15

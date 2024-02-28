@@ -1,0 +1,73 @@
+name,source,type,category,power,accuracy,pp
+Wrap,nature,normal,physical,15,90,20
+Swagger,nature,normal,other,--,85,15
+Bite,lv. 4,dark,physical,60,100,25
+Lick,lv. 6,ghost,physical,30,100,30
+Poison Tail,lv. 9,poison,physical,50,100,25
+Feint,lv. 11,normal,physical,30,100,10
+Screech,lv. 14,normal,other,--,85,40
+Glare,lv. 19,normal,other,--,100,30
+Poison Fang,lv. 21,poison,physical,50,100,15
+Venoshock,lv. 24,poison,special,65,100,10
+Gastro Acid,lv. 29,poison,other,--,100,10
+Poison Jab,lv. 31,poison,physical,80,100,20
+Haze,lv. 34,ice,other,--,101,30
+Crunch,lv. 39,dark,physical,80,100,15
+Belch,lv. 41,poison,special,120,90,10
+Coil,lv. 44,poison,other,--,101,20
+Sludge Bomb,lv. 46,poison,special,90,100,10
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Ice Fang,TM010,ice,physical,65,95,15
+Acid Spray,TM013,poison,special,40,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Poison Tail,TM026,poison,physical,50,100,25
+Bulldoze,TM028,ground,physical,60,100,20
+Snarl,TM030,dark,special,55,95,15
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Dark Pulse,TM094,dark,special,80,100,15
+Iron Head,TM099,steel,physical,80,100,15
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+X-Scissor,TM105,bug,physical,80,100,15
+Crunch,TM108,dark,physical,80,100,15
+Giga Drain,TM111,grass,special,75,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Sludge Bomb,TM148,poison,special,90,100,10
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Toxic,TM175,poison,other,--,90,10
+Knock Off,TM181,dark,physical,65,100,20
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Sludge Wave,TM214,poison,special,95,100,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Curse,TM224,ghost,other,--,101,10

@@ -1,0 +1,17 @@
+name,source,type,category,power,accuracy,pp
+Struggle Bug,nature,bug,special,50,100,20
+Powder Snow,nature,ice,special,40,100,25
+Protect,TM007,normal,other,--,101,10
+Struggle Bug,TM015,bug,special,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Bug Buzz,TM162,bug,special,90,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Icicle Spear,TM187,ice,physical,25,100,30
+Skitter Smack,TM219,bug,physical,70,90,10

@@ -1,0 +1,53 @@
+name,source,type,category,power,accuracy,pp
+Spite,nature,ghost,other,--,100,10
+Powder Snow,nature,ice,special,40,100,25
+Mean Look,nature,normal,other,--,101,5
+Icy Wind,lv. 5,ice,special,55,95,15
+Payback,lv. 10,dark,physical,50,100,10
+Mist,lv. 15,ice,other,--,101,30
+Haze,lv. 15,ice,other,--,101,30
+Ice Shard,lv. 20,ice,physical,40,100,30
+Swords Dance,lv. 25,normal,other,--,101,20
+Snowscape,lv. 30,ice,other,--,101,10
+Night Slash,lv. 35,dark,physical,70,100,15
+Dark Pulse,lv. 40,dark,special,80,100,15
+Icicle Crash,lv. 45,ice,physical,85,90,10
+Ruination,lv. 50,dark,special,??,90,10
+Sucker Punch,lv. 55,dark,physical,70,100,5
+Sacred Sword,lv. 60,fighting,physical,90,100,15
+Recover,lv. 65,normal,other,--,101,5
+Throat Chop,lv. 70,dark,physical,80,100,15
+Sheer Cold,lv. 75,ice,special,??,30,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Acrobatics,TM014,flying,physical,55,100,15
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Hex,TM029,ghost,special,65,100,10
+Snarl,TM030,dark,special,55,95,15
+Icy Wind,TM034,ice,special,55,95,15
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+False Swipe,TM057,normal,physical,40,100,40
+Brick Break,TM058,fighting,physical,75,100,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Spite,TM177,ghost,other,--,100,10
+Lash Out,TM199,dark,physical,75,100,5
+Throat Chop,TM221,dark,physical,80,100,15

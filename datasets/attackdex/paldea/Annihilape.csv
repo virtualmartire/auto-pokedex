@@ -1,0 +1,84 @@
+name,source,type,category,power,accuracy,pp
+Shadow Punch,lv. Evolve,ghost,physical,60,101,20
+Scratch,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Counter,nature,fighting,physical,??,100,20
+Fling,nature,dark,physical,??,100,10
+Focus Energy,nature,normal,other,--,101,30
+Fury Swipes,lv. 5,normal,physical,18,80,15
+Low Kick,lv. 8,fighting,physical,??,100,20
+Seismic Toss,lv. 12,fighting,physical,??,100,20
+Swagger,lv. 17,normal,other,--,85,15
+Cross Chop,lv. 22,fighting,physical,100,80,5
+Assurance,lv. 26,dark,physical,60,100,10
+Thrash,lv. 30,normal,physical,120,100,10
+Rage Fist,lv. 35,ghost,physical,50,100,10
+Close Combat,lv. 39,fighting,physical,120,100,5
+Screech,lv. 44,normal,other,--,85,40
+Stomping Tantrum,lv. 48,ground,physical,75,100,10
+Outrage,lv. 53,dragon,physical,120,100,10
+Final Gambit,lv. 57,fighting,special,??,100,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Low Sweep,TM039,fighting,physical,65,100,20
+Night Shade,TM042,ghost,special,??,100,15
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+U-turn,TM060,bug,physical,70,100,20
+Shadow Claw,TM061,ghost,physical,70,100,15
+Bulk Up,TM064,fighting,other,--,101,20
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Drain Punch,TM073,fighting,physical,75,100,10
+Metronome,TM080,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Taunt,TM087,dark,other,--,100,20
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Encore,TM122,normal,other,--,100,5
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Phantom Force,TM151,ghost,physical,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Overheat,TM157,fire,special,130,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Smack Down,TM179,rock,physical,50,100,15
+Vacuum Wave,TM184,fighting,special,40,100,30
+Uproar,TM191,normal,special,90,100,10
+Focus Punch,TM192,fighting,physical,150,100,20
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Coaching,TM213,fighting,other,--,101,10
+Throat Chop,TM221,dark,physical,80,100,15
+Curse,TM224,ghost,other,--,101,10

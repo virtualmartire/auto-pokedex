@@ -1,0 +1,70 @@
+name,source,type,category,power,accuracy,pp
+Growl,nature,normal,other,--,100,40
+Confusion,nature,psychic,special,50,100,25
+Astonish,lv. 10,ghost,physical,30,100,15
+Confuse Ray,lv. 14,ghost,other,--,100,10
+Mean Look,lv. 19,normal,other,--,101,5
+Hex,lv. 23,ghost,special,65,100,10
+Psybeam,lv. 28,psychic,special,65,100,20
+Pain Split,lv. 32,normal,other,--,101,20
+Payback,lv. 37,dark,physical,50,100,10
+Shadow Ball,lv. 41,ghost,special,80,100,15
+Perish Song,lv. 46,normal,other,--,101,5
+Power Gem,lv. 50,rock,special,80,100,20
+Charm,TM002,fairy,other,--,100,20
+Fake Tears,TM003,dark,other,--,100,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Psybeam,TM016,psychic,special,65,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Draining Kiss,TM037,fairy,special,50,100,10
+Stored Power,TM041,psychic,special,20,100,10
+Night Shade,TM042,ghost,special,??,100,15
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Psyshock,TM054,psychic,special,80,100,10
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Imprison,TM092,psychic,other,--,101,10
+Dark Pulse,TM094,dark,special,80,100,15
+Skill Swap,TM098,psychic,other,--,101,10
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Thunderbolt,TM126,electric,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Nasty Plot,TM140,dark,other,--,101,20
+Phantom Force,TM151,ghost,physical,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Trick Room,TM161,psychic,other,--,101,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Burning Jealousy,TM195,fire,special,70,100,5
+Poltergeist,TM198,ghost,physical,110,90,5
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Future Sight,TM217,psychic,special,120,100,10
+Curse,TM224,ghost,other,--,101,10
+Psychic Noise,TM228,psychic,special,75,100,10

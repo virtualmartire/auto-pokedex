@@ -1,0 +1,69 @@
+name,source,type,category,power,accuracy,pp
+Electric Terrain,nature,electric,other,--,101,10
+Work Up,nature,normal,other,--,101,30
+Focus Energy,nature,normal,other,--,101,30
+Tri Attack,nature,normal,special,80,100,10
+Air Cutter,nature,flying,special,60,95,25
+Roar,lv. 7,normal,other,--,101,20
+Assurance,lv. 14,dark,physical,60,100,10
+Dragon Breath,lv. 21,dragon,special,60,100,20
+Snarl,lv. 28,dark,special,55,95,15
+Crunch,lv. 35,dark,physical,80,100,15
+Hyper Voice,lv. 42,normal,special,90,100,10
+Air Slash,lv. 56,flying,special,75,95,15
+Knock Off,lv. 63,dark,physical,65,100,20
+Dark Pulse,lv. 70,dark,special,80,100,15
+Outrage,lv. 77,dragon,physical,120,100,10
+Dragon Pulse,lv. 84,dragon,special,85,100,10
+Hyper Beam,lv. 91,normal,special,150,90,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Acrobatics,TM014,flying,physical,55,100,15
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Snarl,TM030,dark,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Flash Cannon,TM093,steel,special,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Fly,TM097,flying,physical,90,95,15
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Tailwind,TM113,flying,other,--,101,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Hyper Voice,TM117,normal,special,90,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Flamethrower,TM125,fire,special,90,100,15
+Earth Power,TM133,ground,special,90,100,10
+Electric Terrain,TM136,electric,other,--,101,10
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Focus Blast,TM158,fighting,special,120,70,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Knock Off,TM181,dark,physical,65,100,20
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Meteor Beam,TM220,rock,special,120,90,10
+Throat Chop,TM221,dark,physical,80,100,15
+Metal Sound,TM223,steel,other,--,85,40
+Dragon Cheer,TM226,dragon,other,--,101,15

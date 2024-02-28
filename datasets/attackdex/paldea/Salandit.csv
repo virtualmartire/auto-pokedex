@@ -1,0 +1,62 @@
+name,source,type,category,power,accuracy,pp
+Scratch,nature,normal,physical,40,100,35
+Poison Gas,nature,poison,other,--,90,40
+Smog,lv. 5,poison,special,30,70,20
+Ember,lv. 10,fire,special,40,100,25
+Poison Fang,lv. 15,poison,physical,50,100,15
+Sweet Scent,lv. 20,normal,other,--,100,20
+Nasty Plot,lv. 25,dark,other,--,101,20
+Incinerate,lv. 30,fire,special,60,100,15
+Venoshock,lv. 35,poison,special,65,100,10
+Dragon Pulse,lv. 40,dragon,special,85,100,10
+Flamethrower,lv. 45,fire,special,90,100,15
+Toxic,lv. 50,poison,other,--,90,10
+Endeavor,lv. 55,normal,physical,??,100,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Acid Spray,TM013,poison,special,40,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Poison Tail,TM026,poison,physical,50,100,25
+Swift,TM032,normal,special,60,101,20
+Flame Charge,TM038,fire,physical,50,100,20
+Fling,TM043,dark,physical,??,100,10
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Shadow Claw,TM061,ghost,physical,70,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dragon Claw,TM078,dragon,physical,80,100,15
+Thunder Wave,TM082,electric,other,--,90,20
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Leech Life,TM095,bug,physical,80,100,10
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Flamethrower,TM125,fire,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Nasty Plot,TM140,dark,other,--,101,20
+Fire Blast,TM141,fire,special,110,85,5
+Sludge Bomb,TM148,poison,special,90,100,10
+Overheat,TM157,fire,special,130,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Knock Off,TM181,dark,physical,65,100,20
+Burning Jealousy,TM195,fire,special,70,100,5
+Scale Shot,TM200,dragon,physical,25,90,20
+Endeavor,TM205,normal,physical,??,100,5
+Temper Flare,TM207,fire,physical,75,100,10
+Sludge Wave,TM214,poison,special,95,100,10
+Skitter Smack,TM219,bug,physical,70,90,10

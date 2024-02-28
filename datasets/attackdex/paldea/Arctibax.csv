@@ -1,0 +1,43 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Dragon Tail,nature,dragon,physical,60,90,10
+Icy Wind,lv. 6,ice,special,55,95,15
+Dragon Breath,lv. 12,dragon,special,60,100,20
+Focus Energy,lv. 18,normal,other,--,101,30
+Bite,lv. 24,dark,physical,60,100,25
+Ice Fang,lv. 29,ice,physical,65,95,15
+Take Down,lv. 40,normal,physical,90,85,20
+Ice Beam,lv. 45,ice,special,90,100,10
+Crunch,lv. 50,dark,physical,80,100,15
+Icicle Crash,lv. 55,ice,physical,85,90,10
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dragon Claw,TM078,dragon,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Swords Dance,TM088,normal,other,--,101,20
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Blizzard,TM143,ice,special,110,70,5
+Outrage,TM156,dragon,physical,120,100,10
+Draco Meteor,TM169,dragon,special,130,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Icicle Spear,TM187,ice,physical,25,100,30

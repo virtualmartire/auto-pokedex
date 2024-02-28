@@ -1,0 +1,77 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Tail Whip,nature,normal,other,--,100,30
+Work Up,lv. 5,normal,other,--,101,30
+Double Kick,lv. 10,fighting,physical,30,100,30
+Assurance,lv. 15,dark,physical,60,100,10
+Headbutt,lv. 20,normal,physical,70,100,15
+Scary Face,lv. 25,normal,other,--,100,10
+Zen Headbutt,lv. 30,psychic,physical,80,90,15
+Raging Bull,lv. 35,normal,physical,90,100,10
+Rest,lv. 40,psychic,other,--,101,5
+Swagger,lv. 45,normal,other,--,85,15
+Thrash,lv. 50,normal,physical,120,100,10
+Double-Edge,lv. 55,normal,physical,120,100,15
+Close Combat,lv. 60,fighting,physical,120,100,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Smart Strike,TM053,steel,physical,70,101,10
+Dig,TM055,ground,physical,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Bulk Up,TM064,fighting,other,--,101,20
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Drill Run,TM106,ground,physical,80,95,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Liquidation,TM110,water,physical,85,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Surf,TM123,water,special,90,100,15
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Wild Charge,TM147,electric,physical,90,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Overheat,TM157,fire,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Thunder,TM166,electric,special,110,70,10
+Close Combat,TM167,fighting,physical,120,100,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+High Horsepower,TM186,ground,physical,95,95,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Temper Flare,TM207,fire,physical,75,100,10
+Whirlpool,TM208,water,special,35,85,15
+Throat Chop,TM221,dark,physical,80,100,15
+Curse,TM224,ghost,other,--,101,10

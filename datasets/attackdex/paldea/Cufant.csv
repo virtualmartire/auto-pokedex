@@ -1,0 +1,49 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Growl,nature,normal,other,--,100,40
+Rollout,lv. 5,rock,physical,30,90,20
+Rock Smash,lv. 10,fighting,physical,40,100,15
+Bulldoze,lv. 15,ground,physical,60,100,20
+Stomp,lv. 20,normal,physical,65,100,20
+Iron Defense,lv. 25,steel,other,--,101,15
+Dig,lv. 30,ground,physical,80,100,10
+Strength,lv. 35,normal,physical,80,100,15
+Iron Head,lv. 40,steel,physical,80,100,15
+Play Rough,lv. 45,fairy,physical,90,90,10
+High Horsepower,lv. 50,ground,physical,95,95,10
+Superpower,lv. 55,fighting,physical,120,100,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Flash Cannon,TM093,steel,special,80,100,10
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Stealth Rock,TM116,rock,other,--,101,20
+Heavy Slam,TM121,steel,physical,??,100,10
+Play Rough,TM127,fairy,physical,90,90,10
+Earth Power,TM133,ground,special,90,100,10
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+High Horsepower,TM186,ground,physical,95,95,10
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Curse,TM224,ghost,other,--,101,10

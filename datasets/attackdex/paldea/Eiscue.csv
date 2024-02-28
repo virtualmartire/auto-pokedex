@@ -1,0 +1,51 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Powder Snow,nature,ice,special,40,100,25
+Mist,lv. 6,ice,other,--,101,30
+Weather Ball,lv. 12,normal,special,50,100,10
+Icy Wind,lv. 18,ice,special,55,95,15
+Headbutt,lv. 24,normal,physical,70,100,15
+Amnesia,lv. 30,psychic,other,--,101,20
+Freeze-Dry,lv. 36,ice,special,70,100,20
+Snowscape,lv. 42,ice,other,--,101,10
+Aurora Veil,lv. 48,ice,other,--,101,20
+Surf,lv. 54,water,special,90,100,15
+Blizzard,lv. 60,ice,special,110,70,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Amnesia,TM128,psychic,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Icicle Spear,TM187,ice,physical,25,100,30
+Weather Ball,TM193,normal,special,50,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Double-Edge,TM204,normal,physical,120,100,15
+Whirlpool,TM208,water,special,35,85,15
+Feather Dance,TM216,flying,other,--,100,15

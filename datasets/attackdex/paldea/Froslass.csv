@@ -1,0 +1,76 @@
+name,source,type,category,power,accuracy,pp
+Hex,lv. Evolve,ghost,special,65,100,10
+Crunch,nature,dark,physical,80,100,15
+Ice Fang,nature,ice,physical,65,95,15
+Astonish,nature,ghost,physical,30,100,15
+Destiny Bond,nature,ghost,other,--,101,5
+Protect,nature,normal,other,--,101,10
+Headbutt,nature,normal,physical,70,100,15
+Double Team,nature,normal,other,--,101,15
+Bite,nature,dark,physical,60,100,25
+Leer,nature,normal,other,--,100,30
+Powder Snow,nature,ice,special,40,100,25
+Ice Shard,lv. 15,ice,physical,40,100,30
+Draining Kiss,lv. 20,fairy,special,50,100,10
+Icy Wind,lv. 25,ice,special,55,95,15
+Frost Breath,lv. 30,ice,special,60,90,10
+Confuse Ray,lv. 35,ghost,other,--,100,10
+Snowscape,lv. 40,ice,other,--,101,10
+Will-O-Wisp,lv. 47,fire,other,--,85,15
+Aurora Veil,lv. 54,ice,other,--,101,20
+Shadow Ball,lv. 61,ghost,special,80,100,15
+Blizzard,lv. 68,ice,special,110,70,5
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Fake Tears,TM003,dark,other,--,100,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Icy Wind,TM034,ice,special,55,95,15
+Draining Kiss,TM037,fairy,special,50,100,10
+Night Shade,TM042,ghost,special,??,100,15
+Fling,TM043,dark,physical,??,100,10
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Body Slam,TM066,normal,physical,85,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Spikes,TM090,ground,other,--,101,20
+Imprison,TM092,psychic,other,--,101,10
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Crunch,TM108,dark,physical,80,100,15
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Psychic,TM120,psychic,special,90,100,10
+Ice Spinner,TM124,ice,physical,80,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Spite,TM177,ghost,other,--,100,10
+Icicle Spear,TM187,ice,physical,25,100,30
+Weather Ball,TM193,normal,special,50,100,10
+Poltergeist,TM198,ghost,physical,110,90,5
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Triple Axel,TM212,ice,physical,20,90,10
+Curse,TM224,ghost,other,--,101,10

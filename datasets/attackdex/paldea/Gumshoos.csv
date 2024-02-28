@@ -1,0 +1,65 @@
+name,source,type,category,power,accuracy,pp
+Sand Attack,nature,ground,other,--,100,15
+Tackle,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Payback,nature,dark,physical,50,100,10
+Work Up,lv. 13,normal,other,--,101,30
+Bite,lv. 19,dark,physical,60,100,25
+Mud-Slap,lv. 23,ground,special,20,100,10
+Super Fang,lv. 27,normal,physical,??,90,10
+Take Down,lv. 31,normal,physical,90,85,20
+Scary Face,lv. 35,normal,other,--,100,10
+Crunch,lv. 39,dark,physical,80,100,15
+Yawn,lv. 43,normal,other,--,101,10
+Thrash,lv. 47,normal,physical,120,100,10
+Rest,lv. 52,psychic,other,--,101,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Ice Fang,TM010,ice,physical,65,95,15
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Low Sweep,TM039,fighting,physical,65,100,20
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Wild Charge,TM147,electric,physical,90,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Knock Off,TM181,dark,physical,65,100,20
+Super Fang,TM183,normal,physical,??,90,10
+Focus Punch,TM192,fighting,physical,150,100,20
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Curse,TM224,ghost,other,--,101,10

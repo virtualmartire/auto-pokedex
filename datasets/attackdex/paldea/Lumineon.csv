@@ -1,0 +1,51 @@
+name,source,type,category,power,accuracy,pp
+Pound,nature,normal,physical,40,100,35
+Gust,nature,flying,special,40,100,35
+Water Gun,nature,water,special,40,100,25
+Soak,nature,water,other,--,100,20
+Rain Dance,lv. 13,water,other,--,101,5
+Water Pulse,lv. 22,water,special,60,100,20
+Attract,lv. 26,normal,other,--,100,15
+Safeguard,lv. 29,normal,other,--,101,25
+Aqua Ring,lv. 35,water,other,--,101,20
+Whirlpool,lv. 42,water,special,35,85,15
+U-turn,lv. 48,bug,physical,70,100,20
+Bounce,lv. 53,flying,physical,85,85,5
+Tailwind,lv. 59,flying,other,--,101,15
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Psybeam,TM016,psychic,special,65,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Tailwind,TM113,flying,other,--,101,15
+Encore,TM122,normal,other,--,100,5
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Psych Up,TM203,normal,other,--,101,10
+Whirlpool,TM208,water,special,35,85,15
+Alluring Voice,TM227,fairy,special,80,100,10

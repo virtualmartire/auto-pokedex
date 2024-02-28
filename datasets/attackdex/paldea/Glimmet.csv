@@ -1,0 +1,48 @@
+name,source,type,category,power,accuracy,pp
+Rock Throw,nature,rock,physical,50,90,15
+Harden,nature,normal,other,--,101,30
+Smack Down,nature,rock,physical,50,100,15
+Acid Spray,lv. 7,poison,special,40,100,20
+Ancient Power,lv. 11,rock,special,60,100,5
+Rock Polish,lv. 15,rock,other,--,101,20
+Stealth Rock,lv. 18,rock,other,--,101,20
+Venoshock,lv. 22,poison,special,65,100,10
+Sandstorm,lv. 26,rock,other,--,101,10
+Self-Destruct,lv. 29,normal,physical,200,100,5
+Rock Slide,lv. 33,rock,physical,75,90,10
+Power Gem,lv. 37,rock,special,80,100,20
+Acid Armor,lv. 41,poison,other,--,101,20
+Sludge Wave,lv. 46,poison,special,95,100,10
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rock Blast,TM076,rock,physical,25,90,10
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Spikes,TM090,ground,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Power Gem,TM101,rock,special,80,100,20
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Stealth Rock,TM116,rock,other,--,101,20
+Sludge Bomb,TM148,poison,special,90,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Sand Tomb,TM176,ground,physical,35,85,15
+Smack Down,TM179,rock,physical,50,100,15
+Sludge Wave,TM214,poison,special,95,100,10
+Meteor Beam,TM220,rock,special,120,90,10

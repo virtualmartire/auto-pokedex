@@ -1,0 +1,52 @@
+name,source,type,category,power,accuracy,pp
+Growl,nature,normal,other,--,100,40
+Peck,nature,flying,physical,35,100,35
+Mimic,nature,normal,other,--,101,10
+Quick Attack,lv. 6,normal,physical,40,100,30
+Torment,lv. 10,dark,other,--,100,15
+Aerial Ace,lv. 13,flying,physical,60,101,20
+Fury Attack,lv. 17,normal,physical,15,85,20
+Taunt,lv. 20,dark,other,--,100,20
+Uproar,lv. 24,normal,special,90,100,10
+Copycat,lv. 27,normal,other,--,101,20
+Fly,lv. 30,flying,physical,90,95,15
+Facade,lv. 34,normal,physical,70,100,20
+Swagger,lv. 38,normal,other,--,85,15
+Brave Bird,lv. 42,flying,physical,120,100,15
+Roost,lv. 47,flying,other,--,101,5
+Reversal,lv. 52,fighting,physical,??,100,15
+Take Down,TM001,normal,physical,90,85,20
+Fake Tears,TM003,dark,other,--,100,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Foul Play,TM062,dark,physical,95,100,15
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Fly,TM097,flying,physical,90,95,15
+Substitute,TM103,normal,other,--,101,10
+Tailwind,TM113,flying,other,--,101,15
+Hyper Voice,TM117,normal,special,90,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Helping Hand,TM130,normal,other,--,101,20
+Reversal,TM134,fighting,physical,??,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Uproar,TM191,normal,special,90,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Feather Dance,TM216,flying,other,--,100,15

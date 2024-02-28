@@ -1,0 +1,64 @@
+name,source,type,category,power,accuracy,pp
+Doodle,lv. Evolve,normal,other,--,100,10
+Scratch,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Acid Spray,lv. 5,poison,special,40,100,20
+Fury Swipes,lv. 8,normal,physical,18,80,15
+Switcheroo,lv. 11,dark,other,--,100,10
+Poison Fang,lv. 14,poison,physical,50,100,15
+Flatter,lv. 18,dark,other,--,100,15
+Slash,lv. 21,normal,physical,70,100,20
+U-turn,lv. 25,bug,physical,70,100,20
+Poison Jab,lv. 33,poison,physical,80,100,20
+Taunt,lv. 37,dark,other,--,100,20
+Substitute,lv. 40,normal,other,--,101,10
+Knock Off,lv. 45,dark,physical,65,100,20
+Gunk Shot,lv. 51,poison,physical,120,80,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Acid Spray,TM013,poison,special,40,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Poison Tail,TM026,poison,physical,50,100,25
+Mud Shot,TM035,ground,special,55,95,15
+Low Sweep,TM039,fighting,physical,65,100,20
+Fling,TM043,dark,physical,??,100,10
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+U-turn,TM060,bug,physical,70,100,20
+Shadow Claw,TM061,ghost,physical,70,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Metronome,TM080,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+X-Scissor,TM105,bug,physical,80,100,15
+Encore,TM122,normal,other,--,100,5
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Nasty Plot,TM140,dark,other,--,101,20
+Sludge Bomb,TM148,poison,special,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Knock Off,TM181,dark,physical,65,100,20
+Super Fang,TM183,normal,physical,??,90,10
+Psych Up,TM203,normal,other,--,101,10
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Sludge Wave,TM214,poison,special,95,100,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15

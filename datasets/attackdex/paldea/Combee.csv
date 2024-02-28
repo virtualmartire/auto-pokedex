@@ -1,0 +1,13 @@
+name,source,type,category,power,accuracy,pp
+Gust,nature,flying,special,40,100,35
+Sweet Scent,nature,normal,other,--,100,20
+Bug Bite,nature,bug,physical,60,100,20
+Struggle Bug,nature,bug,special,50,100,20
+Struggle Bug,TM015,bug,special,50,100,20
+Sleep Talk,TM070,normal,other,--,101,10
+Bug Buzz,TM162,bug,special,90,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Skitter Smack,TM219,bug,physical,70,90,10

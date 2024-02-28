@@ -1,0 +1,63 @@
+name,source,type,category,power,accuracy,pp
+Wing Attack,nature,flying,physical,60,100,35
+Leer,nature,normal,other,--,100,30
+Peck,nature,flying,physical,35,100,35
+Memento,nature,dark,other,--,100,10
+Hone Claws,nature,dark,other,--,101,15
+Thief,lv. 7,dark,physical,60,100,25
+Rock Throw,lv. 11,rock,physical,50,90,15
+Whirlwind,lv. 16,normal,other,--,101,20
+Pluck,lv. 20,flying,physical,60,100,20
+Torment,lv. 24,dark,other,--,100,15
+Rock Tomb,lv. 29,rock,physical,60,95,15
+Payback,lv. 36,dark,physical,50,100,10
+Dual Wingbeat,lv. 42,flying,physical,40,90,10
+Rock Slide,lv. 47,rock,physical,75,90,10
+Knock Off,lv. 53,dark,physical,65,100,20
+Parting Shot,lv. 60,dark,other,--,100,20
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Snarl,TM030,dark,special,55,95,15
+Icy Wind,TM034,ice,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+U-turn,TM060,bug,physical,70,100,20
+Foul Play,TM062,dark,physical,95,100,15
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Taunt,TM087,dark,other,--,100,20
+Dark Pulse,TM094,dark,special,80,100,15
+Fly,TM097,flying,physical,90,95,15
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Drill Run,TM106,ground,physical,80,95,10
+Tailwind,TM113,flying,other,--,101,15
+Stealth Rock,TM116,rock,other,--,101,20
+Hyper Voice,TM117,normal,special,90,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Nasty Plot,TM140,dark,other,--,101,20
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Lash Out,TM199,dark,physical,75,100,5
+Psych Up,TM203,normal,other,--,101,10
+Endeavor,TM205,normal,physical,??,100,5
+Feather Dance,TM216,flying,other,--,100,15
+Curse,TM224,ghost,other,--,101,10

@@ -1,0 +1,43 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Charm,nature,fairy,other,--,100,20
+Water Gun,lv. 4,water,special,40,100,25
+Agility,lv. 7,psychic,other,--,101,30
+Wish,lv. 13,normal,other,--,101,10
+Water Pulse,lv. 17,water,special,60,100,20
+Attract,lv. 20,normal,other,--,100,15
+Draining Kiss,lv. 22,fairy,special,50,100,10
+Flail,lv. 26,normal,physical,??,100,15
+Sweet Kiss,lv. 31,fairy,other,--,75,10
+Take Down,lv. 34,normal,physical,90,85,20
+Baby-Doll Eyes,lv. 37,fairy,other,--,100,30
+Aqua Ring,lv. 40,water,other,--,101,20
+Soak,lv. 42,water,other,--,100,20
+Hydro Pump,lv. 46,water,special,110,80,5
+Safeguard,lv. 49,normal,other,--,101,25
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Draining Kiss,TM037,fairy,special,50,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Tera Blast,TM171,normal,special,80,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Scale Shot,TM200,dragon,physical,25,90,20
+Psych Up,TM203,normal,other,--,101,10
+Endeavor,TM205,normal,physical,??,100,5
+Whirlpool,TM208,water,special,35,85,15

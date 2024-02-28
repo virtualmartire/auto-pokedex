@@ -1,0 +1,53 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Sand Attack,lv. 4,ground,other,--,100,15
+Double Team,lv. 8,normal,other,--,101,15
+Rock Throw,lv. 12,rock,physical,50,90,15
+Howl,lv. 16,normal,other,--,101,40
+Bite,lv. 20,dark,physical,60,100,25
+Rock Tomb,lv. 24,rock,physical,60,95,15
+Roar,lv. 28,normal,other,--,101,20
+Rock Slide,lv. 32,rock,physical,75,90,10
+Crunch,lv. 36,dark,physical,80,100,15
+Scary Face,lv. 40,normal,other,--,100,10
+Stealth Rock,lv. 44,rock,other,--,101,20
+Stone Edge,lv. 48,rock,physical,100,80,5
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Snarl,TM030,dark,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Endure,TM047,normal,other,--,101,10
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Crunch,TM108,dark,physical,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Hyper Voice,TM117,normal,special,90,100,10
+Play Rough,TM127,fairy,physical,90,90,10
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5

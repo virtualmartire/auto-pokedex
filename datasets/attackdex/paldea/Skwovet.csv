@@ -1,0 +1,39 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Tail Whip,nature,normal,other,--,100,30
+Bite,lv. 5,dark,physical,60,100,25
+Stuff Cheeks,lv. 10,normal,other,--,101,10
+Stockpile,lv. 15,normal,other,--,101,20
+Spit Up,lv. 15,normal,special,??,100,10
+Swallow,lv. 15,normal,other,--,101,10
+Body Slam,lv. 20,normal,physical,85,100,15
+Rest,lv. 25,psychic,other,--,101,5
+Counter,lv. 30,fighting,physical,??,100,20
+Bullet Seed,lv. 35,grass,physical,25,100,30
+Super Fang,lv. 40,normal,physical,??,90,10
+Belch,lv. 45,poison,special,120,90,10
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Bullet Seed,TM056,grass,physical,25,100,30
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Amnesia,TM128,psychic,other,--,101,20
+Tera Blast,TM171,normal,special,80,100,10
+Gyro Ball,TM180,steel,physical,??,100,5
+Super Fang,TM183,normal,physical,??,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Curse,TM224,ghost,other,--,101,10

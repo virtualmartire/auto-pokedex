@@ -1,0 +1,37 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Defense Curl,nature,normal,other,--,101,40
+Sand Attack,lv. 4,ground,other,--,100,15
+Struggle Bug,lv. 7,bug,special,50,100,20
+Rollout,lv. 11,rock,physical,30,90,20
+Mud Shot,lv. 15,ground,special,55,95,15
+Bug Bite,lv. 20,bug,physical,60,100,20
+Take Down,lv. 24,normal,physical,90,85,20
+Dig,lv. 29,ground,physical,80,100,10
+Lunge,lv. 35,bug,physical,80,100,15
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Struggle Bug,TM015,bug,special,50,100,20
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Leech Life,TM095,bug,physical,80,100,10
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+X-Scissor,TM105,bug,physical,80,100,15
+Sludge Bomb,TM148,poison,special,90,100,10
+Bug Buzz,TM162,bug,special,90,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Weather Ball,TM193,normal,special,50,100,10
+Skitter Smack,TM219,bug,physical,70,90,10

@@ -1,0 +1,64 @@
+name,source,type,category,power,accuracy,pp
+Ember,nature,fire,special,40,100,25
+Smog,nature,poison,special,30,70,20
+Withdraw,lv. 4,water,other,--,101,40
+Rapid Spin,lv. 8,normal,physical,50,100,40
+Smokescreen,lv. 12,normal,other,--,100,20
+Clear Smog,lv. 16,poison,special,50,101,15
+Flame Wheel,lv. 20,fire,physical,60,100,25
+Protect,lv. 24,normal,other,--,101,10
+Lava Plume,lv. 28,fire,special,80,100,15
+Body Slam,lv. 32,normal,physical,85,100,15
+Iron Defense,lv. 36,steel,other,--,101,15
+Flamethrower,lv. 40,fire,special,90,100,15
+Curse,lv. 44,ghost,other,--,101,10
+Heat Wave,lv. 48,fire,special,95,90,10
+Amnesia,lv. 52,psychic,other,--,101,20
+Inferno,lv. 56,fire,special,100,50,5
+Shell Smash,lv. 60,normal,other,--,101,15
+Eruption,lv. 64,fire,special,150,100,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Will-O-Wisp,TM107,fire,other,--,85,15
+Stealth Rock,TM116,rock,other,--,101,20
+Heat Wave,TM118,fire,special,95,90,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Amnesia,TM128,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Fire Blast,TM141,fire,special,110,85,5
+Sludge Bomb,TM148,poison,special,90,100,10
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Overheat,TM157,fire,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Gyro Ball,TM180,steel,physical,??,100,5
+Heat Crash,TM189,fire,physical,??,100,10
+Weather Ball,TM193,normal,special,50,100,10
+Burning Jealousy,TM195,fire,special,70,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Temper Flare,TM207,fire,physical,75,100,10
+Scorching Sands,TM215,ground,special,70,100,10
+Curse,TM224,ghost,other,--,101,10

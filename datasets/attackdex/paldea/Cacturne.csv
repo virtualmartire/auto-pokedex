@@ -1,0 +1,78 @@
+name,source,type,category,power,accuracy,pp
+Spiky Shield,lv. Evolve,grass,other,--,101,10
+Poison Sting,nature,poison,physical,15,100,35
+Leer,nature,normal,other,--,100,30
+Absorb,nature,grass,special,20,100,25
+Growth,nature,normal,other,--,101,20
+Destiny Bond,nature,ghost,other,--,101,5
+Leech Seed,lv. 10,grass,other,--,90,10
+Sand Attack,lv. 13,ground,other,--,100,15
+Bullet Seed,lv. 16,grass,physical,25,100,30
+Power Trip,lv. 19,dark,physical,20,100,10
+Ingrain,lv. 22,grass,other,--,101,20
+Payback,lv. 26,dark,physical,50,100,10
+Spikes,lv. 30,ground,other,--,101,20
+Sucker Punch,lv. 35,dark,physical,70,100,5
+Pin Missile,lv. 38,bug,physical,25,95,20
+Energy Ball,lv. 44,grass,special,90,100,10
+Cotton Spore,lv. 49,grass,other,--,100,40
+Sandstorm,lv. 54,rock,other,--,101,10
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Fling,TM043,dark,physical,??,100,10
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Bullet Seed,TM056,grass,physical,25,100,30
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Drain Punch,TM073,fighting,physical,75,100,10
+Grass Knot,TM081,grass,special,??,100,20
+Poison Jab,TM083,poison,physical,80,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Spikes,TM090,ground,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Energy Ball,TM119,grass,special,90,100,10
+Encore,TM122,normal,other,--,100,5
+Helping Hand,TM130,normal,other,--,101,20
+Grassy Terrain,TM137,grass,other,--,101,10
+Nasty Plot,TM140,dark,other,--,101,20
+Giga Impact,TM152,normal,physical,150,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Leaf Storm,TM159,grass,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Lunge,TM185,bug,physical,80,100,15
+Focus Punch,TM192,fighting,physical,150,100,20
+Grassy Glide,TM194,grass,physical,55,100,20
+Lash Out,TM199,dark,physical,75,100,5
+Endeavor,TM205,normal,physical,??,100,5
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15
+Curse,TM224,ghost,other,--,101,10

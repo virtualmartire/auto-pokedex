@@ -1,0 +1,58 @@
+name,source,type,category,power,accuracy,pp
+Freeze-Dry,lv. Evolve,ice,special,70,100,20
+Headbutt,nature,normal,physical,70,100,15
+Leer,nature,normal,other,--,100,30
+Double Team,nature,normal,other,--,101,15
+Powder Snow,nature,ice,special,40,100,25
+Astonish,nature,ghost,physical,30,100,15
+Sheer Cold,nature,ice,special,??,30,5
+Ice Shard,lv. 15,ice,physical,40,100,30
+Protect,lv. 20,normal,other,--,101,10
+Icy Wind,lv. 25,ice,special,55,95,15
+Frost Breath,lv. 30,ice,special,60,90,10
+Bite,lv. 35,dark,physical,60,100,25
+Ice Fang,lv. 40,ice,physical,65,95,15
+Snowscape,lv. 47,ice,other,--,101,10
+Weather Ball,lv. 54,normal,special,50,100,10
+Crunch,lv. 61,dark,physical,80,100,15
+Blizzard,lv. 68,ice,special,110,70,5
+Take Down,TM001,normal,physical,90,85,20
+Fake Tears,TM003,dark,other,--,100,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Hex,TM029,ghost,special,65,100,10
+Icy Wind,TM034,ice,special,55,95,15
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Spikes,TM090,ground,other,--,101,20
+Dark Pulse,TM094,dark,special,80,100,15
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Blizzard,TM143,ice,special,110,70,5
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Gyro Ball,TM180,steel,physical,??,100,5
+Icicle Spear,TM187,ice,physical,25,100,30
+Weather Ball,TM193,normal,special,50,100,10

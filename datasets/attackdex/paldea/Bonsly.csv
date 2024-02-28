@@ -1,0 +1,53 @@
+name,source,type,category,power,accuracy,pp
+Fake Tears,nature,dark,other,--,100,20
+Copycat,nature,normal,other,--,101,20
+Flail,lv. 4,normal,physical,??,100,15
+Rock Throw,lv. 8,rock,physical,50,90,15
+Block,lv. 12,normal,other,--,101,5
+Mimic,lv. 16,normal,other,--,101,10
+Rock Tomb,lv. 20,rock,physical,60,95,15
+Tearful Look,lv. 24,normal,other,--,101,20
+Sucker Punch,lv. 28,dark,physical,70,100,5
+Rock Slide,lv. 32,rock,physical,75,90,10
+Low Kick,lv. 36,fighting,physical,??,100,20
+Counter,lv. 40,fighting,physical,??,100,20
+Double-Edge,lv. 44,normal,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Fake Tears,TM003,dark,other,--,100,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Brick Break,TM058,fighting,physical,75,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Grass Knot,TM081,grass,special,??,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Spikes,TM090,ground,other,--,101,20
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Stealth Rock,TM116,rock,other,--,101,20
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Tera Blast,TM171,normal,special,80,100,10
+Sand Tomb,TM176,ground,physical,35,85,15
+Smack Down,TM179,rock,physical,50,100,15
+Psych Up,TM203,normal,other,--,101,10
+Double-Edge,TM204,normal,physical,120,100,15
+Curse,TM224,ghost,other,--,101,10

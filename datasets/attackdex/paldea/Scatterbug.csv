@@ -1,0 +1,9 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+String Shot,nature,bug,other,--,95,40
+Stun Spore,lv. 6,grass,other,--,75,30
+Bug Bite,lv. 15,bug,physical,60,100,20
+Struggle Bug,TM015,bug,special,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20

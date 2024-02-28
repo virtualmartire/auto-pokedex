@@ -1,0 +1,56 @@
+name,source,type,category,power,accuracy,pp
+Peck,nature,flying,physical,35,100,35
+Copycat,nature,normal,other,--,101,20
+Double Kick,lv. 5,fighting,physical,30,100,30
+Detect,lv. 9,fighting,other,--,101,5
+Wing Attack,lv. 12,flying,physical,60,100,35
+Focus Energy,lv. 15,normal,other,--,101,30
+Low Kick,lv. 18,fighting,physical,??,100,20
+Feint,lv. 21,normal,physical,30,100,10
+Payback,lv. 27,dark,physical,50,100,10
+Roost,lv. 31,flying,other,--,101,5
+Air Slash,lv. 35,flying,special,75,95,15
+Mega Kick,lv. 39,normal,physical,120,75,5
+Wide Guard,lv. 44,rock,other,--,101,10
+Throat Chop,lv. 48,dark,physical,80,100,15
+Brave Bird,lv. 54,flying,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Low Kick,TM012,fighting,physical,??,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Low Sweep,TM039,fighting,physical,65,100,20
+Air Cutter,TM040,flying,special,60,95,25
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+U-turn,TM060,bug,physical,70,100,20
+Bulk Up,TM064,fighting,other,--,101,20
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Fly,TM097,flying,physical,90,95,15
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Tailwind,TM113,flying,other,--,101,15
+Reversal,TM134,fighting,physical,??,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Lunge,TM185,bug,physical,80,100,15
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Psych Up,TM203,normal,other,--,101,10
+Endeavor,TM205,normal,physical,??,100,5
+Feather Dance,TM216,flying,other,--,100,15
+Throat Chop,TM221,dark,physical,80,100,15
+Upper Hand,TM229,fighting,physical,65,100,15

@@ -1,0 +1,57 @@
+name,source,type,category,power,accuracy,pp
+Pound,nature,normal,physical,40,100,35
+Yawn,lv. 5,normal,other,--,101,10
+Poison Gas,lv. 8,poison,other,--,90,40
+Sludge,lv. 10,poison,special,65,100,20
+Amnesia,lv. 12,psychic,other,--,101,20
+Acid Spray,lv. 17,poison,special,40,100,20
+Encore,lv. 20,normal,other,--,100,5
+Toxic,lv. 25,poison,other,--,90,10
+Stockpile,lv. 28,normal,other,--,101,20
+Spit Up,lv. 28,normal,special,??,100,10
+Swallow,lv. 28,normal,other,--,101,10
+Sludge Bomb,lv. 33,poison,special,90,100,10
+Gastro Acid,lv. 36,poison,other,--,100,10
+Belch,lv. 41,poison,special,120,90,10
+Pain Split,lv. 44,normal,other,--,101,20
+Gunk Shot,lv. 49,poison,physical,120,80,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acid Spray,TM013,poison,special,40,100,20
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Fling,TM043,dark,physical,??,100,10
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Thunder Wave,TM082,electric,other,--,90,20
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Swords Dance,TM088,normal,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Encore,TM122,normal,other,--,100,5
+Amnesia,TM128,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Sludge Bomb,TM148,poison,special,90,100,10
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Pain Split,TM202,normal,other,--,101,20
+Sludge Wave,TM214,poison,special,95,100,10
+Curse,TM224,ghost,other,--,101,10

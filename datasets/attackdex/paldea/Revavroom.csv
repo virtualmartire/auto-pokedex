@@ -1,0 +1,62 @@
+name,source,type,category,power,accuracy,pp
+Shift Gear,lv. Evolve,steel,other,--,101,10
+Magnet Rise,nature,electric,other,--,101,10
+Lick,nature,ghost,physical,30,100,30
+Poison Gas,nature,poison,other,--,90,40
+Smog,lv. 4,poison,special,30,70,20
+Taunt,lv. 7,dark,other,--,100,20
+Assurance,lv. 10,dark,physical,60,100,10
+Sludge,lv. 13,poison,special,65,100,20
+Gyro Ball,lv. 17,steel,physical,??,100,5
+Headbutt,lv. 21,normal,physical,70,100,15
+Screech,lv. 25,normal,other,--,85,40
+Iron Head,lv. 28,steel,physical,80,100,15
+Swagger,lv. 32,normal,other,--,85,15
+Poison Jab,lv. 36,poison,physical,80,100,20
+Uproar,lv. 46,normal,special,90,100,10
+Spin Out,lv. 52,steel,physical,100,100,5
+Gunk Shot,lv. 58,poison,physical,120,80,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Iron Head,TM099,steel,physical,80,100,15
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Heavy Slam,TM121,steel,physical,??,100,10
+Sludge Bomb,TM148,poison,special,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Overheat,TM157,fire,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Toxic,TM175,poison,other,--,90,10
+Gyro Ball,TM180,steel,physical,??,100,5
+High Horsepower,TM186,ground,physical,95,95,10
+Uproar,TM191,normal,special,90,100,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Temper Flare,TM207,fire,physical,75,100,10
+Sludge Wave,TM214,poison,special,95,100,10
+Metal Sound,TM223,steel,other,--,85,40
+Curse,TM224,ghost,other,--,101,10
+Hard Press,TM225,steel,physical,??,100,10

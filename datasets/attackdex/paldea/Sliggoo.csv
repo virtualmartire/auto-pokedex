@@ -1,0 +1,53 @@
+name,source,type,category,power,accuracy,pp
+Acid Spray,lv. Evolve,poison,special,40,100,20
+Tackle,nature,normal,physical,40,100,35
+Water Gun,nature,water,special,40,100,25
+Absorb,nature,grass,special,20,100,25
+Acid Armor,nature,poison,other,--,101,20
+Dragon Breath,nature,dragon,special,60,100,20
+Protect,lv. 15,normal,other,--,101,10
+Flail,lv. 20,normal,physical,??,100,15
+Water Pulse,lv. 25,water,special,60,100,20
+Rain Dance,lv. 30,water,other,--,101,5
+Dragon Pulse,lv. 35,dragon,special,85,100,10
+Curse,lv. 43,ghost,other,--,101,10
+Body Slam,lv. 49,normal,physical,85,100,15
+Muddy Water,lv. 56,water,special,90,85,10
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acid Spray,TM013,poison,special,40,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Flash Cannon,TM093,steel,special,80,100,10
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Dragon Pulse,TM115,dragon,special,85,100,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Ice Spinner,TM124,ice,physical,80,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Blizzard,TM143,ice,special,110,70,5
+Sludge Bomb,TM148,poison,special,90,100,10
+Outrage,TM156,dragon,physical,120,100,10
+Thunder,TM166,electric,special,110,70,10
+Draco Meteor,TM169,dragon,special,130,90,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Gyro Ball,TM180,steel,physical,??,100,5
+Muddy Water,TM209,water,special,90,85,10
+Sludge Wave,TM214,poison,special,95,100,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10

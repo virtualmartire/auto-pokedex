@@ -1,0 +1,52 @@
+name,source,type,category,power,accuracy,pp
+Bind,nature,normal,physical,15,85,20
+Ice Shard,nature,ice,physical,40,100,30
+Confuse Ray,lv. 4,ghost,other,--,100,10
+Rapid Spin,lv. 8,normal,physical,50,100,40
+Icy Wind,lv. 12,ice,special,55,95,15
+Mist,lv. 16,ice,other,--,101,30
+Haze,lv. 16,ice,other,--,101,30
+Ancient Power,lv. 20,rock,special,60,100,5
+Aurora Beam,lv. 24,ice,special,65,100,20
+Slash,lv. 28,normal,physical,70,100,20
+Night Slash,lv. 32,dark,physical,70,100,15
+Freeze-Dry,lv. 36,ice,special,70,100,20
+Light Screen,lv. 40,psychic,other,--,101,30
+Reflect,lv. 40,psychic,other,--,101,20
+Recover,lv. 44,normal,other,--,101,5
+Ice Beam,lv. 48,ice,special,90,100,10
+Acid Armor,lv. 52,poison,other,--,101,20
+Solar Beam,lv. 56,grass,special,120,100,10
+Sheer Cold,lv. 60,ice,special,??,30,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Confuse Ray,TM017,ghost,other,--,100,10
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Flash Cannon,TM093,steel,special,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Icicle Spear,TM187,ice,physical,25,100,30
+Triple Axel,TM212,ice,physical,20,90,10

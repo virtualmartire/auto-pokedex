@@ -1,0 +1,92 @@
+name,source,type,category,power,accuracy,pp
+Defense Curl,nature,normal,other,--,101,40
+Flail,nature,normal,physical,??,100,15
+Mud-Slap,lv. 4,ground,special,20,100,10
+Rollout,lv. 8,rock,physical,30,90,20
+Glare,lv. 12,normal,other,--,100,30
+Screech,lv. 16,normal,other,--,85,40
+Ancient Power,lv. 20,rock,special,60,100,5
+Drill Run,lv. 24,ground,physical,80,95,10
+Yawn,lv. 28,normal,other,--,101,10
+Hyper Drill,lv. 32,normal,physical,100,100,5
+Roost,lv. 36,flying,other,--,101,5
+Dragon Rush,lv. 40,dragon,physical,100,75,10
+Coil,lv. 44,poison,other,--,101,20
+Double-Edge,lv. 48,normal,physical,120,100,15
+Endeavor,lv. 52,normal,physical,??,100,5
+Hurricane,lv. 56,flying,special,110,70,10
+Boomburst,lv. 62,normal,special,140,100,10
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Poison Tail,TM026,poison,physical,50,100,25
+Bulldoze,TM028,ground,physical,60,100,20
+Hex,TM029,ghost,special,65,100,10
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Stored Power,TM041,psychic,special,20,100,10
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Smart Strike,TM053,steel,physical,70,101,10
+Dig,TM055,ground,physical,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Poison Jab,TM083,poison,physical,80,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Drill Run,TM106,ground,physical,80,95,10
+Tailwind,TM113,flying,other,--,101,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Hyper Voice,TM117,normal,special,90,100,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Ice Spinner,TM124,ice,physical,80,100,15
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Amnesia,TM128,psychic,other,--,101,20
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Earth Power,TM133,ground,special,90,100,10
+Ice Beam,TM135,ice,special,90,100,10
+Fire Blast,TM141,fire,special,110,85,5
+Blizzard,TM143,ice,special,110,70,5
+Wild Charge,TM147,electric,physical,90,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Spite,TM177,ghost,other,--,100,10
+Gyro Ball,TM180,steel,physical,??,100,5
+Lunge,TM185,bug,physical,80,100,15
+Uproar,TM191,normal,special,90,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Scale Shot,TM200,dragon,physical,25,90,20
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Curse,TM224,ghost,other,--,101,10

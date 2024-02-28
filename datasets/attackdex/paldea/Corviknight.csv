@@ -1,0 +1,60 @@
+name,source,type,category,power,accuracy,pp
+Steel Wing,lv. Evolve,steel,physical,70,90,25
+Leer,nature,normal,other,--,100,30
+Peck,nature,flying,physical,35,100,35
+Screech,nature,normal,other,--,85,40
+Metal Sound,nature,steel,other,--,85,40
+Iron Defense,nature,steel,other,--,101,15
+Hone Claws,nature,dark,other,--,101,15
+Power Trip,nature,dark,physical,20,100,10
+Fury Attack,lv. 12,normal,physical,15,85,20
+Pluck,lv. 16,flying,physical,60,100,20
+Taunt,lv. 22,dark,other,--,100,20
+Scary Face,lv. 28,normal,other,--,100,10
+Drill Peck,lv. 34,flying,physical,80,100,20
+Swagger,lv. 42,normal,other,--,85,15
+Brave Bird,lv. 50,flying,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Fake Tears,TM003,dark,other,--,100,20
+Agility,TM004,psychic,other,--,101,30
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Metal Claw,TM031,steel,physical,50,95,35
+Swift,TM032,normal,special,60,101,20
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Bulk Up,TM064,fighting,other,--,101,20
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Body Press,TM089,fighting,physical,80,100,10
+Flash Cannon,TM093,steel,special,80,100,10
+Fly,TM097,flying,physical,90,95,15
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Tailwind,TM113,flying,other,--,101,15
+Heavy Slam,TM121,steel,physical,??,100,10
+Reversal,TM134,fighting,physical,??,100,15
+Nasty Plot,TM140,dark,other,--,101,20
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Metal Sound,TM223,steel,other,--,85,40
+Curse,TM224,ghost,other,--,101,10

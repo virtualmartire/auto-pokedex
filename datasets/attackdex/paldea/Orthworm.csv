@@ -1,0 +1,52 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Wrap,nature,normal,physical,15,90,20
+Harden,nature,normal,other,--,101,30
+Mud-Slap,lv. 7,ground,special,20,100,10
+Smack Down,lv. 12,rock,physical,50,100,15
+Bulldoze,lv. 16,ground,physical,60,100,20
+Iron Head,lv. 21,steel,physical,80,100,15
+Take Down,lv. 26,normal,physical,90,85,20
+Dig,lv. 30,ground,physical,80,100,10
+Sandstorm,lv. 34,rock,other,--,101,10
+Iron Defense,lv. 38,steel,other,--,101,15
+Iron Tail,lv. 43,steel,physical,100,75,15
+Earthquake,lv. 47,ground,physical,100,100,10
+Shed Tail,lv. 52,normal,other,--,101,10
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Endure,TM047,normal,other,--,101,10
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Spikes,TM090,ground,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Stealth Rock,TM116,rock,other,--,101,20
+Heavy Slam,TM121,steel,physical,??,100,10
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Sand Tomb,TM176,ground,physical,35,85,15
+Smack Down,TM179,rock,physical,50,100,15
+High Horsepower,TM186,ground,physical,95,95,10
+Double-Edge,TM204,normal,physical,120,100,15
+Metal Sound,TM223,steel,other,--,85,40
+Curse,TM224,ghost,other,--,101,10

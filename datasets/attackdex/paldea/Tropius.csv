@@ -1,0 +1,65 @@
+name,source,type,category,power,accuracy,pp
+Gust,nature,flying,special,40,100,35
+Leer,nature,normal,other,--,100,30
+Growth,nature,normal,other,--,101,20
+Razor Leaf,nature,grass,physical,55,95,25
+Leaf Storm,nature,grass,special,130,90,5
+Sweet Scent,lv. 6,normal,other,--,100,20
+Stomp,lv. 10,normal,physical,65,100,20
+Magical Leaf,lv. 16,grass,special,60,101,20
+Whirlwind,lv. 21,normal,other,--,101,20
+Wide Guard,lv. 30,rock,other,--,101,10
+Air Slash,lv. 36,flying,special,75,95,15
+Body Slam,lv. 41,normal,physical,85,100,15
+Outrage,lv. 46,dragon,physical,120,100,10
+Synthesis,lv. 50,grass,other,--,101,5
+Solar Beam,lv. 56,grass,special,120,100,10
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Bulldoze,TM028,ground,physical,60,100,20
+Magical Leaf,TM033,grass,special,60,101,20
+Air Cutter,TM040,flying,special,60,95,25
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Grass Knot,TM081,grass,special,??,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Swords Dance,TM088,normal,other,--,101,20
+Body Press,TM089,fighting,physical,80,100,10
+Fly,TM097,flying,physical,90,95,15
+Dragon Dance,TM100,dragon,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Tailwind,TM113,flying,other,--,101,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Grassy Terrain,TM137,grass,other,--,101,10
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Leaf Storm,TM159,grass,special,130,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Spite,TM177,ghost,other,--,100,10
+Solar Blade,TM190,grass,physical,125,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Petal Blizzard,TM206,grass,physical,90,100,15
+Curse,TM224,ghost,other,--,101,10

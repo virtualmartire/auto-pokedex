@@ -1,0 +1,56 @@
+name,source,type,category,power,accuracy,pp
+Flame Charge,lv. Evolve,fire,physical,50,100,20
+Tackle,nature,normal,physical,40,100,35
+Smokescreen,nature,normal,other,--,100,20
+Rapid Spin,nature,normal,physical,50,100,40
+Smack Down,nature,rock,physical,50,100,15
+Rock Polish,lv. 15,rock,other,--,101,20
+Ancient Power,lv. 20,rock,special,60,100,5
+Incinerate,lv. 27,fire,special,60,100,15
+Stealth Rock,lv. 35,rock,other,--,101,20
+Heat Crash,lv. 41,fire,physical,??,100,10
+Rock Blast,lv. 48,rock,physical,25,90,10
+Stone Edge,lv. 55,rock,physical,100,80,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Rock Blast,TM076,rock,physical,25,90,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Spikes,TM090,ground,other,--,101,20
+Iron Head,TM099,steel,physical,80,100,15
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Will-O-Wisp,TM107,fire,other,--,85,15
+Stealth Rock,TM116,rock,other,--,101,20
+Heat Wave,TM118,fire,special,95,90,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Fire Blast,TM141,fire,special,110,85,5
+Stone Edge,TM150,rock,physical,100,80,5
+Overheat,TM157,fire,special,130,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Sand Tomb,TM176,ground,physical,35,85,15
+Smack Down,TM179,rock,physical,50,100,15
+Gyro Ball,TM180,steel,physical,??,100,5
+Scald,TM188,water,special,80,100,15
+Heat Crash,TM189,fire,physical,??,100,10
+Temper Flare,TM207,fire,physical,75,100,10
+Scorching Sands,TM215,ground,special,70,100,10
+Meteor Beam,TM220,rock,special,120,90,10
+Curse,TM224,ghost,other,--,101,10

@@ -1,0 +1,87 @@
+name,source,type,category,power,accuracy,pp
+Charm,nature,fairy,other,--,100,20
+Copycat,nature,normal,other,--,101,20
+Covet,nature,normal,physical,60,100,25
+Disarming Voice,nature,fairy,special,40,101,15
+Sweet Kiss,nature,fairy,other,--,75,10
+Pound,nature,normal,physical,40,100,35
+Defense Curl,nature,normal,other,--,101,40
+Tail Whip,lv. 4,normal,other,--,100,30
+Echoed Voice,lv. 8,normal,special,40,100,15
+Life Dew,lv. 12,water,other,--,101,10
+Sing,lv. 16,normal,other,--,55,15
+Fling,lv. 20,dark,physical,??,100,10
+Take Down,lv. 24,normal,physical,90,85,20
+Heal Pulse,lv. 28,psychic,other,--,101,10
+Helping Hand,lv. 32,normal,other,--,101,20
+Light Screen,lv. 36,psychic,other,--,101,30
+Double-Edge,lv. 40,normal,physical,120,100,15
+Soft-Boiled,lv. 44,normal,other,--,101,5
+Last Resort,lv. 48,normal,physical,140,100,5
+Healing Wish,lv. 52,psychic,other,--,101,10
+Take Down,TM001,normal,physical,90,85,20
+Charm,TM002,fairy,other,--,100,20
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Thief,TM018,dark,physical,60,100,25
+Disarming Voice,TM019,fairy,special,40,101,15
+Trailblaze,TM020,grass,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Stored Power,TM041,psychic,special,20,100,10
+Fling,TM043,dark,physical,??,100,10
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Snowscape,TM052,ice,other,--,101,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Ice Punch,TM069,ice,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Drain Punch,TM073,fighting,physical,75,100,10
+Light Screen,TM075,psychic,other,--,101,30
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Metronome,TM080,normal,other,--,101,10
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Skill Swap,TM098,psychic,other,--,101,10
+Substitute,TM103,normal,other,--,101,10
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Hyper Voice,TM117,normal,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Electric Terrain,TM136,electric,other,--,101,10
+Fire Blast,TM141,fire,special,110,85,5
+Blizzard,TM143,ice,special,110,70,5
+Wild Charge,TM147,electric,physical,90,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Gravity,TM178,psychic,other,--,101,5
+Focus Punch,TM192,fighting,physical,150,100,20
+Psych Up,TM203,normal,other,--,101,10
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Alluring Voice,TM227,fairy,special,80,100,10

@@ -1,0 +1,50 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Aqua Jet,nature,water,physical,40,100,20
+Pluck,lv. 7,flying,physical,60,100,20
+Water Pulse,lv. 11,water,special,60,100,20
+Focus Energy,lv. 15,normal,other,--,101,30
+Slash,lv. 20,normal,physical,70,100,20
+Aqua Cutter,lv. 25,water,physical,70,100,20
+Fillet Away,lv. 30,normal,other,--,101,10
+Night Slash,lv. 35,dark,physical,70,100,15
+Psycho Cut,lv. 40,psychic,physical,70,100,20
+Liquidation,lv. 45,water,physical,85,100,10
+Crunch,lv. 50,dark,physical,80,100,15
+Final Gambit,lv. 55,fighting,special,??,100,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Stored Power,TM041,psychic,special,20,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Drill Run,TM106,ground,physical,80,95,10
+Crunch,TM108,dark,physical,80,100,15
+Liquidation,TM110,water,physical,85,100,10
+Psychic,TM120,psychic,special,90,100,10
+Surf,TM123,water,special,90,100,15
+Ice Beam,TM135,ice,special,90,100,10
+Psychic Terrain,TM138,psychic,other,--,101,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Scale Shot,TM200,dragon,physical,25,90,20
+Pain Split,TM202,normal,other,--,101,20
+Double-Edge,TM204,normal,physical,120,100,15
+Endeavor,TM205,normal,physical,??,100,5
+Expanding Force,TM218,psychic,special,80,100,10

@@ -1,0 +1,64 @@
+name,source,type,category,power,accuracy,pp
+Growl,nature,normal,other,--,100,40
+Supersonic,nature,normal,other,--,55,20
+Air Slash,nature,flying,special,75,95,15
+Water Gun,nature,water,special,40,100,25
+Tailwind,nature,flying,other,--,101,15
+Agility,nature,psychic,other,--,101,30
+Quick Attack,nature,normal,physical,40,100,30
+Protect,nature,normal,other,--,101,10
+Soak,nature,water,other,--,100,20
+Wing Attack,lv. 15,flying,physical,60,100,35
+Water Pulse,lv. 20,water,special,60,100,20
+Stockpile,lv. 28,normal,other,--,101,20
+Spit Up,lv. 28,normal,special,??,100,10
+Swallow,lv. 28,normal,other,--,101,10
+Fling,lv. 34,dark,physical,??,100,10
+Mist,lv. 41,ice,other,--,101,30
+Roost,lv. 48,flying,other,--,101,5
+Hurricane,lv. 55,flying,special,110,70,10
+Hydro Pump,lv. 62,water,special,110,80,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Thief,TM018,dark,physical,60,100,25
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Fly,TM097,flying,physical,90,95,15
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Tailwind,TM113,flying,other,--,101,15
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Brave Bird,TM164,flying,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Weather Ball,TM193,normal,special,50,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Whirlpool,TM208,water,special,35,85,15
+Muddy Water,TM209,water,special,90,85,10
+Feather Dance,TM216,flying,other,--,100,15

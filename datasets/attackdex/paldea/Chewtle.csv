@@ -1,0 +1,36 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Water Gun,nature,water,special,40,100,25
+Bite,lv. 7,dark,physical,60,100,25
+Protect,lv. 14,normal,other,--,101,10
+Headbutt,lv. 21,normal,physical,70,100,15
+Counter,lv. 28,fighting,physical,??,100,20
+Jaw Lock,lv. 35,dark,physical,80,100,10
+Liquidation,lv. 42,water,physical,85,100,10
+Body Slam,lv. 49,normal,physical,85,100,15
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+False Swipe,TM057,normal,physical,40,100,40
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Poison Jab,TM083,poison,physical,80,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Hydro Pump,TM142,water,special,110,80,5
+Tera Blast,TM171,normal,special,80,100,10
+Whirlpool,TM208,water,special,35,85,15
+Skitter Smack,TM219,bug,physical,70,90,10

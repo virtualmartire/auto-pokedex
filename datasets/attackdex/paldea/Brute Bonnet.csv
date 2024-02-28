@@ -1,0 +1,54 @@
+name,source,type,category,power,accuracy,pp
+Absorb,nature,grass,special,20,100,25
+Growth,nature,normal,other,--,101,20
+Astonish,nature,ghost,physical,30,100,15
+Stun Spore,lv. 7,grass,other,--,75,30
+Mega Drain,lv. 14,grass,special,40,100,15
+Synthesis,lv. 21,grass,other,--,101,5
+Clear Smog,lv. 28,poison,special,50,101,15
+Payback,lv. 35,dark,physical,50,100,10
+Thrash,lv. 42,normal,physical,120,100,10
+Giga Drain,lv. 49,grass,special,75,100,10
+Sucker Punch,lv. 56,dark,physical,70,100,5
+Spore,lv. 63,grass,other,--,100,15
+Ingrain,lv. 70,grass,other,--,101,20
+Rage Powder,lv. 77,bug,other,--,101,20
+Solar Beam,lv. 91,grass,special,120,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Magical Leaf,TM033,grass,special,60,101,20
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Grass Knot,TM081,grass,special,??,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Body Press,TM089,fighting,physical,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Giga Drain,TM111,grass,special,75,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Pollen Puff,TM131,bug,special,90,100,15
+Earth Power,TM133,ground,special,90,100,10
+Grassy Terrain,TM137,grass,other,--,101,10
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Leaf Storm,TM159,grass,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Close Combat,TM167,fighting,physical,120,100,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15

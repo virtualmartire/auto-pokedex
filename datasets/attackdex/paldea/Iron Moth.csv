@@ -1,0 +1,63 @@
+name,source,type,category,power,accuracy,pp
+Gust,nature,flying,special,40,100,35
+Whirlwind,nature,normal,other,--,101,20
+Ember,nature,fire,special,40,100,25
+Acid Spray,nature,poison,special,40,100,20
+Struggle Bug,lv. 7,bug,special,50,100,20
+Fire Spin,lv. 14,fire,special,35,85,15
+Take Down,lv. 21,normal,physical,90,85,20
+Lunge,lv. 28,bug,physical,80,100,15
+Screech,lv. 35,normal,other,--,85,40
+Discharge,lv. 42,electric,special,80,100,15
+Sludge Wave,lv. 49,poison,special,95,100,10
+Fiery Dance,lv. 56,fire,special,80,100,10
+Metal Sound,lv. 63,steel,other,--,85,40
+Morning Sun,lv. 70,normal,other,--,101,5
+Hurricane,lv. 77,flying,special,110,70,10
+Bug Buzz,lv. 84,bug,special,90,100,10
+Overheat,lv. 91,fire,special,130,90,5
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Struggle Bug,TM015,bug,special,50,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Pounce,TM021,bug,physical,50,100,20
+Charge Beam,TM023,electric,special,50,90,10
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Flame Charge,TM038,fire,physical,50,100,20
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Light Screen,TM075,psychic,other,--,101,30
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Rest,TM085,psychic,other,--,101,5
+Toxic Spikes,TM091,poison,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Heat Wave,TM118,fire,special,95,90,10
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Electric Terrain,TM136,electric,other,--,101,10
+Fire Blast,TM141,fire,special,110,85,5
+Giga Impact,TM152,normal,physical,150,90,5
+Overheat,TM157,fire,special,130,90,5
+Hurricane,TM160,flying,special,110,70,10
+Bug Buzz,TM162,bug,special,90,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Toxic,TM175,poison,other,--,90,10
+Lunge,TM185,bug,physical,80,100,15
+Sludge Wave,TM214,poison,special,95,100,10
+Meteor Beam,TM220,rock,special,120,90,10
+Metal Sound,TM223,steel,other,--,85,40

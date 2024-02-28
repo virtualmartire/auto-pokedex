@@ -1,0 +1,45 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Water Gun,nature,water,special,40,100,25
+Withdraw,lv. 4,water,other,--,101,40
+Ice Shard,lv. 8,ice,physical,40,100,30
+Leer,lv. 12,normal,other,--,100,30
+Whirlpool,lv. 16,water,special,35,85,15
+Supersonic,lv. 20,normal,other,--,55,20
+Aurora Beam,lv. 24,ice,special,65,100,20
+Protect,lv. 28,normal,other,--,101,10
+Razor Shell,lv. 32,water,physical,75,95,10
+Iron Defense,lv. 36,steel,other,--,101,15
+Ice Beam,lv. 40,ice,special,90,100,10
+Shell Smash,lv. 44,normal,other,--,101,15
+Hydro Pump,lv. 48,water,special,110,80,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Mud Shot,TM035,ground,special,55,95,15
+Avalanche,TM046,ice,physical,60,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Snowscape,TM052,ice,other,--,101,10
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Spikes,TM090,ground,other,--,101,20
+Toxic Spikes,TM091,poison,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Tera Blast,TM171,normal,special,80,100,10
+Icicle Spear,TM187,ice,physical,25,100,30
+Whirlpool,TM208,water,special,35,85,15

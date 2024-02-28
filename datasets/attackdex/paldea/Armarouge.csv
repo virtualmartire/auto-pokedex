@@ -1,0 +1,67 @@
+name,source,type,category,power,accuracy,pp
+Psyshock,lv. Evolve,psychic,special,80,100,10
+Leer,nature,normal,other,--,100,30
+Ember,nature,fire,special,40,100,25
+Mystical Fire,nature,fire,special,75,100,10
+Astonish,nature,ghost,physical,30,100,15
+Wide Guard,nature,rock,other,--,101,10
+Clear Smog,lv. 8,poison,special,50,101,15
+Fire Spin,lv. 12,fire,special,35,85,15
+Will-O-Wisp,lv. 16,fire,other,--,85,15
+Night Shade,lv. 20,ghost,special,??,100,15
+Flame Charge,lv. 24,fire,physical,50,100,20
+Incinerate,lv. 28,fire,special,60,100,15
+Lava Plume,lv. 32,fire,special,80,100,15
+Calm Mind,lv. 37,psychic,other,--,101,20
+Ally Switch,lv. 42,psychic,other,--,101,15
+Flamethrower,lv. 48,fire,special,90,100,15
+Expanding Force,lv. 56,psychic,special,80,100,10
+Armor Cannon,lv. 62,fire,special,120,100,5
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Acid Spray,TM013,poison,special,40,100,20
+Psybeam,TM016,psychic,special,65,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Flame Charge,TM038,fire,physical,50,100,20
+Stored Power,TM041,psychic,special,20,100,10
+Night Shade,TM042,ghost,special,??,100,15
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Psyshock,TM054,psychic,special,80,100,10
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Flash Cannon,TM093,steel,special,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Will-O-Wisp,TM107,fire,other,--,85,15
+Trick,TM109,psychic,other,--,100,10
+Aura Sphere,TM112,fighting,special,80,101,20
+Shadow Ball,TM114,ghost,special,80,100,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Energy Ball,TM119,grass,special,90,100,10
+Psychic,TM120,psychic,special,90,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Psychic Terrain,TM138,psychic,other,--,101,10
+Fire Blast,TM141,fire,special,110,85,5
+Overheat,TM157,fire,special,130,90,5
+Focus Blast,TM158,fighting,special,120,70,5
+Trick Room,TM161,psychic,other,--,101,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Weather Ball,TM193,normal,special,50,100,10
+Psych Up,TM203,normal,other,--,101,10
+Scorching Sands,TM215,ground,special,70,100,10
+Expanding Force,TM218,psychic,special,80,100,10
+Meteor Beam,TM220,rock,special,120,90,10

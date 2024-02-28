@@ -1,0 +1,57 @@
+name,source,type,category,power,accuracy,pp
+Scratch,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Fury Cutter,lv. 5,bug,physical,40,95,20
+Metal Claw,lv. 10,steel,physical,50,95,35
+Torment,lv. 15,dark,other,--,100,15
+Scary Face,lv. 20,normal,other,--,100,10
+Assurance,lv. 25,dark,physical,60,100,10
+Metal Sound,lv. 30,steel,other,--,85,40
+Slash,lv. 35,normal,physical,70,100,20
+Night Slash,lv. 40,dark,physical,70,100,15
+Iron Defense,lv. 45,steel,other,--,101,15
+Retaliate,lv. 50,normal,physical,70,100,5
+Iron Head,lv. 55,steel,physical,80,100,15
+Swords Dance,lv. 60,normal,other,--,101,20
+Guillotine,lv. 65,normal,physical,??,30,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Thief,TM018,dark,physical,60,100,25
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Snarl,TM030,dark,special,55,95,15
+Metal Claw,TM031,steel,physical,50,95,35
+Rock Tomb,TM036,rock,physical,60,95,15
+Low Sweep,TM039,fighting,physical,65,100,20
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Dig,TM055,ground,physical,80,100,10
+False Swipe,TM057,normal,physical,40,100,40
+Brick Break,TM058,fighting,physical,75,100,15
+Shadow Claw,TM061,ghost,physical,70,100,15
+Foul Play,TM062,dark,physical,95,100,15
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Poison Jab,TM083,poison,physical,80,100,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Iron Head,TM099,steel,physical,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+X-Scissor,TM105,bug,physical,80,100,15
+Stealth Rock,TM116,rock,other,--,101,20
+Stone Edge,TM150,rock,physical,100,80,5
+Steel Beam,TM170,steel,special,140,95,5
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Lash Out,TM199,dark,physical,75,100,5
+Metal Sound,TM223,steel,other,--,85,40

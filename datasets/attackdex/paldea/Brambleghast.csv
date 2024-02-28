@@ -1,0 +1,49 @@
+name,source,type,category,power,accuracy,pp
+Defense Curl,nature,normal,other,--,101,40
+Rollout,nature,rock,physical,30,90,20
+Astonish,nature,ghost,physical,30,100,15
+Absorb,lv. 5,grass,special,20,100,25
+Rapid Spin,lv. 9,normal,physical,50,100,40
+Bullet Seed,lv. 13,grass,physical,25,100,30
+Infestation,lv. 17,bug,special,20,100,20
+Hex,lv. 21,ghost,special,65,100,10
+Mega Drain,lv. 25,grass,special,40,100,15
+Disable,lv. 29,normal,other,--,100,20
+Phantom Force,lv. 35,ghost,physical,90,100,10
+Giga Drain,lv. 40,grass,special,75,100,10
+Curse,lv. 45,ghost,other,--,101,10
+Pain Split,lv. 50,normal,other,--,101,20
+Power Whip,lv. 55,grass,physical,120,85,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Night Shade,TM042,ghost,special,??,100,15
+Endure,TM047,normal,other,--,101,10
+Bullet Seed,TM056,grass,physical,25,100,30
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Grass Knot,TM081,grass,special,??,100,20
+Rest,TM085,psychic,other,--,101,5
+Spikes,TM090,ground,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Energy Ball,TM119,grass,special,90,100,10
+Grassy Terrain,TM137,grass,other,--,101,10
+Phantom Force,TM151,ghost,physical,90,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Leaf Storm,TM159,grass,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Grassy Glide,TM194,grass,physical,55,100,20
+Poltergeist,TM198,ghost,physical,110,90,5
+Pain Split,TM202,normal,other,--,101,20
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10

@@ -1,0 +1,49 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Mud-Slap,nature,ground,special,20,100,10
+Slack Off,nature,normal,other,--,101,5
+Thunder Shock,lv. 7,electric,special,40,100,30
+Water Gun,lv. 11,water,special,40,100,25
+Charge,lv. 17,electric,other,--,101,20
+Spark,lv. 21,electric,physical,65,100,20
+Mud Shot,lv. 24,ground,special,55,95,15
+Flail,lv. 25,normal,physical,??,100,15
+Discharge,lv. 32,electric,special,80,100,15
+Weather Ball,lv. 36,normal,special,50,100,10
+Electric Terrain,lv. 40,electric,other,--,101,10
+Sucker Punch,lv. 45,dark,physical,70,100,5
+Zap Cannon,lv. 50,electric,special,120,50,5
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acid Spray,TM013,poison,special,40,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Chilling Water,TM022,water,special,50,100,20
+Charge Beam,TM023,electric,special,50,90,10
+Swift,TM032,normal,special,60,101,20
+Mud Shot,TM035,ground,special,55,95,15
+Endure,TM047,normal,other,--,101,10
+Volt Switch,TM048,electric,special,70,100,20
+Rain Dance,TM050,water,other,--,101,5
+Sleep Talk,TM070,normal,other,--,101,10
+Electro Ball,TM072,electric,special,??,100,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Eerie Impulse,TM096,electric,other,--,100,15
+Substitute,TM103,normal,other,--,101,10
+Hyper Voice,TM117,normal,special,90,100,10
+Thunderbolt,TM126,electric,special,90,100,15
+Electric Terrain,TM136,electric,other,--,101,10
+Wild Charge,TM147,electric,physical,90,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Toxic,TM175,poison,other,--,90,10
+Weather Ball,TM193,normal,special,50,100,10
+Muddy Water,TM209,water,special,90,85,10
+Supercell Slam,TM210,electric,physical,100,95,15
+Electroweb,TM211,electric,special,55,95,15

@@ -1,0 +1,19 @@
+name,source,type,category,power,accuracy,pp
+Astonish,nature,ghost,physical,30,100,15
+Tackle,nature,normal,physical,40,100,35
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Hex,TM029,ghost,special,65,100,10
+Night Shade,TM042,ghost,special,??,100,15
+Endure,TM047,normal,other,--,101,10
+Sleep Talk,TM070,normal,other,--,101,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Power Gem,TM101,rock,special,80,100,20
+Substitute,TM103,normal,other,--,101,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Nasty Plot,TM140,dark,other,--,101,20
+Tera Blast,TM171,normal,special,80,100,10

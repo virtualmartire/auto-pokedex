@@ -1,0 +1,64 @@
+name,source,type,category,power,accuracy,pp
+Eerie Impulse,nature,electric,other,--,100,15
+Charge,nature,electric,other,--,101,20
+Magnetic Flux,nature,electric,other,--,101,20
+Tackle,nature,normal,physical,40,100,35
+Thunder Shock,nature,electric,special,40,100,30
+Spark,lv. 9,electric,physical,65,100,20
+Rollout,lv. 11,rock,physical,30,90,20
+Screech,lv. 13,normal,other,--,85,40
+Charge Beam,lv. 16,electric,special,50,90,10
+Swift,lv. 20,normal,special,60,101,20
+Electro Ball,lv. 22,electric,special,??,100,10
+Self-Destruct,lv. 26,normal,physical,200,100,5
+Light Screen,lv. 29,psychic,other,--,101,30
+Magnet Rise,lv. 36,electric,other,--,101,10
+Discharge,lv. 41,electric,special,80,100,15
+Explosion,lv. 47,normal,physical,250,100,5
+Gyro Ball,lv. 54,steel,physical,??,100,5
+Mirror Coat,lv. 58,psychic,special,??,100,20
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Thief,TM018,dark,physical,60,100,25
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Endure,TM047,normal,other,--,101,10
+Volt Switch,TM048,electric,special,70,100,20
+Rain Dance,TM050,water,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Electro Ball,TM072,electric,special,??,100,10
+Reflect,TM074,psychic,other,--,101,20
+Light Screen,TM075,psychic,other,--,101,30
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Eerie Impulse,TM096,electric,other,--,100,15
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Thunderbolt,TM126,electric,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Electric Terrain,TM136,electric,other,--,101,10
+Grassy Terrain,TM137,grass,other,--,101,10
+Wild Charge,TM147,electric,physical,90,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Leaf Storm,TM159,grass,special,130,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Gyro Ball,TM180,steel,physical,??,100,5
+Grassy Glide,TM194,grass,physical,55,100,20
+Double-Edge,TM204,normal,physical,120,100,15
+Supercell Slam,TM210,electric,physical,100,95,15
+Electroweb,TM211,electric,special,55,95,15
+Metal Sound,TM223,steel,other,--,85,40
+Curse,TM224,ghost,other,--,101,10

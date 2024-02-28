@@ -1,0 +1,50 @@
+name,source,type,category,power,accuracy,pp
+Water Gun,nature,water,special,40,100,25
+Splash,nature,normal,other,--,101,40
+Vise Grip,lv. 5,normal,physical,55,100,30
+Flail,lv. 10,normal,physical,??,100,15
+Aqua Jet,lv. 15,water,physical,40,100,20
+Smack Down,lv. 20,rock,physical,50,100,15
+Hone Claws,lv. 25,dark,other,--,101,15
+Water Pulse,lv. 30,water,special,60,100,20
+Swords Dance,lv. 35,normal,other,--,101,20
+Aura Sphere,lv. 40,fighting,special,80,101,20
+Bounce,lv. 45,flying,physical,85,85,5
+Muddy Water,lv. 50,water,special,90,85,10
+Crabhammer,lv. 55,water,physical,100,90,10
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Mud Shot,TM035,ground,special,55,95,15
+Venoshock,TM045,poison,special,65,100,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Swords Dance,TM088,normal,other,--,101,20
+Flash Cannon,TM093,steel,special,80,100,10
+Dark Pulse,TM094,dark,special,80,100,15
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Aura Sphere,TM112,fighting,special,80,101,20
+Dragon Pulse,TM115,dragon,special,85,100,10
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Tera Blast,TM171,normal,special,80,100,10
+Smack Down,TM179,rock,physical,50,100,15
+Weather Ball,TM193,normal,special,50,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Muddy Water,TM209,water,special,90,85,10
+Sludge Wave,TM214,poison,special,95,100,10

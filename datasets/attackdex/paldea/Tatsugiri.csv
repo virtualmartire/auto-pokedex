@@ -1,0 +1,41 @@
+name,source,type,category,power,accuracy,pp
+Water Gun,nature,water,special,40,100,25
+Splash,nature,normal,other,--,101,40
+Harden,lv. 6,normal,other,--,101,30
+Helping Hand,lv. 12,normal,other,--,101,20
+Water Pulse,lv. 17,water,special,60,100,20
+Soak,lv. 23,water,other,--,100,20
+Taunt,lv. 28,dark,other,--,100,20
+Memento,lv. 34,dark,other,--,100,10
+Muddy Water,lv. 39,water,special,90,85,10
+Nasty Plot,lv. 43,dark,other,--,101,20
+Mirror Coat,lv. 47,psychic,special,??,100,20
+Dragon Pulse,lv. 52,dragon,special,85,100,10
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Icy Wind,TM034,ice,special,55,95,15
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Dragon Dance,TM100,dragon,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Dragon Pulse,TM115,dragon,special,85,100,10
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Nasty Plot,TM140,dark,other,--,101,20
+Hydro Pump,TM142,water,special,110,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Draco Meteor,TM169,dragon,special,130,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Lunge,TM185,bug,physical,80,100,15
+Whirlpool,TM208,water,special,35,85,15
+Muddy Water,TM209,water,special,90,85,10
+Dragon Cheer,TM226,dragon,other,--,101,15

@@ -1,0 +1,39 @@
+name,source,type,category,power,accuracy,pp
+Peck,nature,flying,physical,35,100,35
+Aqua Jet,nature,water,physical,40,100,20
+Fury Attack,lv. 6,normal,physical,15,85,20
+Bite,lv. 12,dark,physical,60,100,25
+Agility,lv. 18,psychic,other,--,101,30
+Dive,lv. 24,water,physical,80,100,10
+Focus Energy,lv. 30,normal,other,--,101,30
+Crunch,lv. 36,dark,physical,80,100,15
+Liquidation,lv. 42,water,physical,85,100,10
+Double-Edge,lv. 48,normal,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Brick Break,TM058,fighting,physical,75,100,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Drill Run,TM106,ground,physical,80,95,10
+Crunch,TM108,dark,physical,80,100,15
+Liquidation,TM110,water,physical,85,100,10
+Surf,TM123,water,special,90,100,15
+Hydro Pump,TM142,water,special,110,80,5
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Flip Turn,TM196,water,physical,60,100,20
+Scale Shot,TM200,dragon,physical,25,90,20
+Double-Edge,TM204,normal,physical,120,100,15
+Whirlpool,TM208,water,special,35,85,15
+Throat Chop,TM221,dark,physical,80,100,15

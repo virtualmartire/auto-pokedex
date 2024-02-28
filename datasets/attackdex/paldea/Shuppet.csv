@@ -1,0 +1,60 @@
+name,source,type,category,power,accuracy,pp
+Astonish,nature,ghost,physical,30,100,15
+Screech,lv. 4,normal,other,--,85,40
+Night Shade,lv. 7,ghost,special,??,100,15
+Spite,lv. 10,ghost,other,--,100,10
+Will-O-Wisp,lv. 16,fire,other,--,85,15
+Shadow Sneak,lv. 19,ghost,physical,40,100,30
+Hex,lv. 22,ghost,special,65,100,10
+Curse,lv. 26,ghost,other,--,101,10
+Shadow Ball,lv. 30,ghost,special,80,100,15
+Role Play,lv. 34,psychic,other,--,101,10
+Sucker Punch,lv. 38,dark,physical,70,100,5
+Trick,lv. 42,psychic,other,--,100,10
+Phantom Force,lv. 48,ghost,physical,90,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Psybeam,TM016,psychic,special,65,100,20
+Confuse Ray,TM017,ghost,other,--,100,10
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Hex,TM029,ghost,special,65,100,10
+Icy Wind,TM034,ice,special,55,95,15
+Night Shade,TM042,ghost,special,??,100,15
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Foul Play,TM062,dark,physical,95,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dazzling Gleam,TM079,fairy,special,80,100,10
+Metronome,TM080,normal,other,--,101,10
+Thunder Wave,TM082,electric,other,--,90,20
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Imprison,TM092,psychic,other,--,101,10
+Dark Pulse,TM094,dark,special,80,100,15
+Skill Swap,TM098,psychic,other,--,101,10
+Gunk Shot,TM102,poison,physical,120,80,5
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Trick,TM109,psychic,other,--,100,10
+Shadow Ball,TM114,ghost,special,80,100,15
+Psychic,TM120,psychic,special,90,100,10
+Encore,TM122,normal,other,--,100,5
+Thunderbolt,TM126,electric,special,90,100,15
+Calm Mind,TM129,psychic,other,--,101,20
+Helping Hand,TM130,normal,other,--,101,20
+Nasty Plot,TM140,dark,other,--,101,20
+Phantom Force,TM151,ghost,physical,90,100,10
+Trick Room,TM161,psychic,other,--,101,5
+Thunder,TM166,electric,special,110,70,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Poltergeist,TM198,ghost,physical,110,90,5
+Lash Out,TM199,dark,physical,75,100,5
+Pain Split,TM202,normal,other,--,101,20
+Psych Up,TM203,normal,other,--,101,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10

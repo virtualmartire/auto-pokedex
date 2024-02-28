@@ -1,0 +1,67 @@
+name,source,type,category,power,accuracy,pp
+Whirlwind,nature,normal,other,--,101,20
+Water Gun,nature,water,special,40,100,25
+Quick Attack,nature,normal,physical,40,100,30
+Sweet Scent,nature,normal,other,--,100,20
+Soak,nature,water,other,--,100,20
+Gust,lv. 17,flying,special,40,100,35
+Scary Face,lv. 22,normal,other,--,100,10
+Air Cutter,lv. 22,flying,special,60,95,25
+Stun Spore,lv. 26,grass,other,--,75,30
+Air Slash,lv. 32,flying,special,75,95,15
+Giga Drain,lv. 38,grass,special,75,100,10
+Bug Buzz,lv. 44,bug,special,90,100,10
+Quiver Dance,lv. 52,bug,other,--,101,20
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Water Pulse,TM011,water,special,60,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Struggle Bug,TM015,bug,special,50,100,20
+Psybeam,TM016,psychic,special,65,100,20
+Thief,TM018,dark,physical,60,100,25
+Pounce,TM021,bug,physical,50,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Swift,TM032,normal,special,60,101,20
+Icy Wind,TM034,ice,special,55,95,15
+Mud Shot,TM035,ground,special,55,95,15
+Air Cutter,TM040,flying,special,60,95,25
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+U-turn,TM060,bug,physical,70,100,20
+Foul Play,TM062,dark,physical,95,100,15
+Air Slash,TM065,flying,special,75,95,15
+Sleep Talk,TM070,normal,other,--,101,10
+Waterfall,TM077,water,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Leech Life,TM095,bug,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Liquidation,TM110,water,physical,85,100,10
+Giga Drain,TM111,grass,special,75,100,10
+Tailwind,TM113,flying,other,--,101,15
+Shadow Ball,TM114,ghost,special,80,100,15
+Energy Ball,TM119,grass,special,90,100,10
+Surf,TM123,water,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Baton Pass,TM132,normal,other,--,101,40
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Bug Buzz,TM162,bug,special,90,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Haze,TM174,ice,other,--,101,30
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Weather Ball,TM193,normal,special,50,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Psych Up,TM203,normal,other,--,101,10
+Skitter Smack,TM219,bug,physical,70,90,10

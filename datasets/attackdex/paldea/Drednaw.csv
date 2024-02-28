@@ -1,0 +1,67 @@
+name,source,type,category,power,accuracy,pp
+Rock Tomb,lv. Evolve,rock,physical,60,95,15
+Tackle,nature,normal,physical,40,100,35
+Bite,nature,dark,physical,60,100,25
+Water Gun,nature,water,special,40,100,25
+Protect,nature,normal,other,--,101,10
+Crunch,nature,dark,physical,80,100,15
+Rock Polish,nature,rock,other,--,101,20
+Razor Shell,nature,water,physical,75,95,10
+Headbutt,lv. 21,normal,physical,70,100,15
+Counter,lv. 30,fighting,physical,??,100,20
+Jaw Lock,lv. 39,dark,physical,80,100,10
+Liquidation,lv. 48,water,physical,85,100,10
+Body Slam,lv. 57,normal,physical,85,100,15
+Head Smash,lv. 66,rock,physical,150,80,5
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Ice Fang,TM010,ice,physical,65,95,15
+Water Pulse,TM011,water,special,60,100,20
+Chilling Water,TM022,water,special,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Mud Shot,TM035,ground,special,55,95,15
+Rock Tomb,TM036,rock,physical,60,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Smart Strike,TM053,steel,physical,70,101,10
+Dig,TM055,ground,physical,80,100,10
+False Swipe,TM057,normal,physical,40,100,40
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Rock Blast,TM076,rock,physical,25,90,10
+Waterfall,TM077,water,physical,80,100,15
+Poison Jab,TM083,poison,physical,80,100,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Swords Dance,TM088,normal,other,--,101,20
+Body Press,TM089,fighting,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Crunch,TM108,dark,physical,80,100,15
+Liquidation,TM110,water,physical,85,100,10
+Stealth Rock,TM116,rock,other,--,101,20
+Surf,TM123,water,special,90,100,15
+Ice Spinner,TM124,ice,physical,80,100,15
+Earth Power,TM133,ground,special,90,100,10
+Ice Beam,TM135,ice,special,90,100,10
+Hydro Pump,TM142,water,special,110,80,5
+Blizzard,TM143,ice,special,110,70,5
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Hyper Beam,TM163,normal,special,150,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Sand Tomb,TM176,ground,physical,35,85,15
+Super Fang,TM183,normal,physical,??,90,10
+High Horsepower,TM186,ground,physical,95,95,10
+Double-Edge,TM204,normal,physical,120,100,15
+Whirlpool,TM208,water,special,35,85,15
+Muddy Water,TM209,water,special,90,85,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Meteor Beam,TM220,rock,special,120,90,10
+Throat Chop,TM221,dark,physical,80,100,15

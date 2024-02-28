@@ -1,0 +1,58 @@
+name,source,type,category,power,accuracy,pp
+Lunge,lv. Evolve,bug,physical,80,100,15
+Tackle,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Low Kick,nature,fighting,physical,??,100,20
+Detect,nature,fighting,other,--,101,5
+Struggle Bug,lv. 4,bug,special,50,100,20
+Astonish,lv. 6,ghost,physical,30,100,15
+Assurance,lv. 9,dark,physical,60,100,10
+Double Kick,lv. 11,fighting,physical,30,100,30
+Screech,lv. 14,normal,other,--,85,40
+Endure,lv. 18,normal,other,--,101,10
+Bug Bite,lv. 22,bug,physical,60,100,20
+Feint,lv. 28,normal,physical,30,100,10
+Agility,lv. 32,psychic,other,--,101,30
+Throat Chop,lv. 36,dark,physical,80,100,15
+Sucker Punch,lv. 40,dark,physical,70,100,5
+First Impression,lv. 44,bug,physical,90,100,10
+Bounce,lv. 48,flying,physical,85,85,5
+Axe Kick,lv. 53,fighting,physical,120,90,10
+Take Down,TM001,normal,physical,90,85,20
+Agility,TM004,psychic,other,--,101,30
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Struggle Bug,TM015,bug,special,50,100,20
+Thief,TM018,dark,physical,60,100,25
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Low Sweep,TM039,fighting,physical,65,100,20
+Fling,TM043,dark,physical,??,100,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Brick Break,TM058,fighting,physical,75,100,15
+U-turn,TM060,bug,physical,70,100,20
+Sleep Talk,TM070,normal,other,--,101,10
+Rest,TM085,psychic,other,--,101,5
+Taunt,TM087,dark,other,--,100,20
+Swords Dance,TM088,normal,other,--,101,20
+Dark Pulse,TM094,dark,special,80,100,15
+Leech Life,TM095,bug,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+X-Scissor,TM105,bug,physical,80,100,15
+Reversal,TM134,fighting,physical,??,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Bug Buzz,TM162,bug,special,90,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Spite,TM177,ghost,other,--,100,10
+Knock Off,TM181,dark,physical,65,100,20
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Lash Out,TM199,dark,physical,75,100,5
+Double-Edge,TM204,normal,physical,120,100,15
+Skitter Smack,TM219,bug,physical,70,90,10
+Throat Chop,TM221,dark,physical,80,100,15

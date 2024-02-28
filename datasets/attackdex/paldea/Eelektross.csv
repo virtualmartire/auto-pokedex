@@ -1,0 +1,73 @@
+name,source,type,category,power,accuracy,pp
+Headbutt,nature,normal,physical,70,100,15
+Thrash,nature,normal,physical,120,100,10
+Acid,nature,poison,special,40,100,30
+Zap Cannon,nature,electric,special,120,50,5
+Crunch,nature,dark,physical,80,100,15
+Crush Claw,nature,normal,physical,75,95,10
+Gastro Acid,nature,poison,other,--,100,10
+Discharge,nature,electric,special,80,100,15
+Coil,nature,poison,other,--,101,20
+Wild Charge,lv. 5,electric,physical,90,100,15
+Take Down,TM001,normal,physical,90,85,20
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Thunder Fang,TM009,electric,physical,65,95,15
+Acid Spray,TM013,poison,special,40,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Confuse Ray,TM017,ghost,other,--,100,10
+Charge Beam,TM023,electric,special,50,90,10
+Facade,TM025,normal,physical,70,100,20
+Bulldoze,TM028,ground,physical,60,100,20
+Hex,TM029,ghost,special,65,100,10
+Swift,TM032,normal,special,60,101,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Volt Switch,TM048,electric,special,70,100,20
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Bulk Up,TM064,fighting,other,--,101,20
+Body Slam,TM066,normal,physical,85,100,15
+Fire Punch,TM067,fire,physical,75,100,15
+Thunder Punch,TM068,electric,physical,75,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Electro Ball,TM072,electric,special,??,100,10
+Drain Punch,TM073,fighting,physical,75,100,10
+Light Screen,TM075,psychic,other,--,101,30
+Dragon Claw,TM078,dragon,physical,80,100,15
+Grass Knot,TM081,grass,special,??,100,20
+Thunder Wave,TM082,electric,other,--,90,20
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Body Press,TM089,fighting,physical,80,100,10
+Flash Cannon,TM093,steel,special,80,100,10
+Eerie Impulse,TM096,electric,other,--,100,15
+Substitute,TM103,normal,other,--,101,10
+Crunch,TM108,dark,physical,80,100,15
+Liquidation,TM110,water,physical,85,100,10
+Giga Drain,TM111,grass,special,75,100,10
+Dragon Pulse,TM115,dragon,special,85,100,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Thunderbolt,TM126,electric,special,90,100,15
+Electric Terrain,TM136,electric,other,--,101,10
+Wild Charge,TM147,electric,physical,90,100,15
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Thunder,TM166,electric,special,110,70,10
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Charge,TM173,electric,other,--,101,20
+Knock Off,TM181,dark,physical,65,100,20
+Super Fang,TM183,normal,physical,??,90,10
+Lunge,TM185,bug,physical,80,100,15
+Focus Punch,TM192,fighting,physical,150,100,20
+Supercell Slam,TM210,electric,physical,100,95,15
+Electroweb,TM211,electric,special,55,95,15
+Throat Chop,TM221,dark,physical,80,100,15

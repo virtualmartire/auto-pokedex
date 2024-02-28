@@ -1,0 +1,38 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Sweet Scent,nature,normal,other,--,100,20
+Absorb,lv. 5,grass,special,20,100,25
+Growth,lv. 7,normal,other,--,101,20
+Razor Leaf,lv. 10,grass,physical,55,95,25
+Helping Hand,lv. 13,normal,other,--,101,20
+Flail,lv. 16,normal,physical,??,100,15
+Mega Drain,lv. 20,grass,special,40,100,15
+Grassy Terrain,lv. 23,grass,other,--,101,10
+Seed Bomb,lv. 29,grass,physical,80,100,15
+Energy Ball,lv. 34,grass,special,90,100,10
+Leech Seed,lv. 37,grass,other,--,90,10
+Terrain Pulse,lv. 42,normal,special,50,100,10
+Charm,TM002,fairy,other,--,100,20
+Protect,TM007,normal,other,--,101,10
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Swift,TM032,normal,special,60,101,20
+Magical Leaf,TM033,grass,special,60,101,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Bullet Seed,TM056,grass,physical,25,100,30
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Grass Knot,TM081,grass,special,??,100,20
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Giga Drain,TM111,grass,special,75,100,10
+Energy Ball,TM119,grass,special,90,100,10
+Helping Hand,TM130,normal,other,--,101,20
+Earth Power,TM133,ground,special,90,100,10
+Grassy Terrain,TM137,grass,other,--,101,10
+Leaf Storm,TM159,grass,special,130,90,5
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Solar Blade,TM190,grass,physical,125,100,10
+Weather Ball,TM193,normal,special,50,100,10

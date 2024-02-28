@@ -1,0 +1,50 @@
+name,source,type,category,power,accuracy,pp
+Ember,nature,fire,special,40,100,25
+String Shot,nature,bug,other,--,95,40
+Flame Charge,lv. 6,fire,physical,50,100,20
+Struggle Bug,lv. 12,bug,special,50,100,20
+Flame Wheel,lv. 18,fire,physical,60,100,25
+Screech,lv. 30,normal,other,--,85,40
+Leech Life,lv. 36,bug,physical,80,100,10
+Bug Buzz,lv. 42,bug,special,90,100,10
+Take Down,lv. 48,normal,physical,90,85,20
+Amnesia,lv. 54,psychic,other,--,101,20
+Double-Edge,lv. 60,normal,physical,120,100,15
+Flare Blitz,lv. 66,fire,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Acrobatics,TM014,flying,physical,55,100,15
+Struggle Bug,TM015,bug,special,50,100,20
+Trailblaze,TM020,grass,physical,50,100,20
+Pounce,TM021,bug,physical,50,100,20
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Light Screen,TM075,psychic,other,--,101,30
+Rest,TM085,psychic,other,--,101,5
+Leech Life,TM095,bug,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Giga Drain,TM111,grass,special,75,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Psychic,TM120,psychic,special,90,100,10
+Flamethrower,TM125,fire,special,90,100,15
+Amnesia,TM128,psychic,other,--,101,20
+Calm Mind,TM129,psychic,other,--,101,20
+Fire Blast,TM141,fire,special,110,85,5
+Wild Charge,TM147,electric,physical,90,100,15
+Overheat,TM157,fire,special,130,90,5
+Bug Buzz,TM162,bug,special,90,100,10
+Flare Blitz,TM165,fire,physical,120,100,15
+Solar Beam,TM168,grass,special,120,100,10
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+Double-Edge,TM204,normal,physical,120,100,15
+Skitter Smack,TM219,bug,physical,70,90,10

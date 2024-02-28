@@ -1,0 +1,49 @@
+name,source,type,category,power,accuracy,pp
+Tackle,nature,normal,physical,40,100,35
+Leer,nature,normal,other,--,100,30
+Ember,nature,fire,special,40,100,25
+Round,lv. 7,normal,special,60,100,15
+Bite,lv. 12,dark,physical,60,100,25
+Incinerate,lv. 15,fire,special,60,100,15
+Yawn,lv. 17,normal,other,--,101,10
+Snarl,lv. 21,dark,special,55,95,15
+Roar,lv. 25,normal,other,--,101,20
+Flamethrower,lv. 28,fire,special,90,100,15
+Hyper Voice,lv. 32,normal,special,90,100,10
+Fire Blast,lv. 36,fire,special,110,85,5
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Disarming Voice,TM019,fairy,special,40,101,15
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Snarl,TM030,dark,special,55,95,15
+Flame Charge,TM038,fire,physical,50,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Dig,TM055,ground,physical,80,100,10
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Seed Bomb,TM071,grass,physical,80,100,15
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Crunch,TM108,dark,physical,80,100,15
+Hyper Voice,TM117,normal,special,90,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Encore,TM122,normal,other,--,100,5
+Flamethrower,TM125,fire,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Fire Blast,TM141,fire,special,110,85,5
+Fire Pledge,TM144,fire,special,80,100,10
+Outrage,TM156,dragon,physical,120,100,10
+Overheat,TM157,fire,special,130,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Temper Flare,TM207,fire,physical,75,100,10
+Curse,TM224,ghost,other,--,101,10

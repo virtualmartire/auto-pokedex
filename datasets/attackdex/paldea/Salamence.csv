@@ -1,0 +1,72 @@
+name,source,type,category,power,accuracy,pp
+Fly,lv. Evolve,flying,physical,90,95,15
+Roost,nature,flying,other,--,101,5
+Dragon Breath,nature,dragon,special,60,100,20
+Dragon Tail,nature,dragon,physical,60,90,10
+Ember,nature,fire,special,40,100,25
+Dual Wingbeat,nature,flying,physical,40,90,10
+Leer,nature,normal,other,--,100,30
+Bite,nature,dark,physical,60,100,25
+Protect,nature,normal,other,--,101,10
+Headbutt,lv. 15,normal,physical,70,100,15
+Scary Face,lv. 20,normal,other,--,100,10
+Crunch,lv. 25,dark,physical,80,100,15
+Dragon Claw,lv. 33,dragon,physical,80,100,15
+Zen Headbutt,lv. 39,psychic,physical,80,90,15
+Focus Energy,lv. 46,normal,other,--,101,30
+Flamethrower,lv. 55,fire,special,90,100,15
+Double-Edge,lv. 73,normal,physical,120,100,15
+Take Down,TM001,normal,physical,90,85,20
+Mud-Slap,TM005,ground,special,20,100,10
+Scary Face,TM006,normal,other,--,100,10
+Protect,TM007,normal,other,--,101,10
+Fire Fang,TM008,fire,physical,65,95,15
+Thunder Fang,TM009,electric,physical,65,95,15
+Fire Spin,TM024,fire,special,35,85,15
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Bulldoze,TM028,ground,physical,60,100,20
+Swift,TM032,normal,special,60,101,20
+Rock Tomb,TM036,rock,physical,60,95,15
+Dragon Tail,TM044,dragon,physical,60,90,10
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+Shadow Claw,TM061,ghost,physical,70,100,15
+Psychic Fangs,TM063,psychic,physical,85,100,10
+Air Slash,TM065,flying,special,75,95,15
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Dragon Claw,TM078,dragon,physical,80,100,15
+Rest,TM085,psychic,other,--,101,5
+Rock Slide,TM086,rock,physical,75,90,10
+Fly,TM097,flying,physical,90,95,15
+Iron Head,TM099,steel,physical,80,100,15
+Dragon Dance,TM100,dragon,other,--,101,20
+Substitute,TM103,normal,other,--,101,10
+Iron Defense,TM104,steel,other,--,101,15
+Crunch,TM108,dark,physical,80,100,15
+Tailwind,TM113,flying,other,--,101,15
+Dragon Pulse,TM115,dragon,special,85,100,10
+Hyper Voice,TM117,normal,special,90,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Flamethrower,TM125,fire,special,90,100,15
+Helping Hand,TM130,normal,other,--,101,20
+Fire Blast,TM141,fire,special,110,85,5
+Hydro Pump,TM142,water,special,110,80,5
+Earthquake,TM149,ground,physical,100,100,10
+Stone Edge,TM150,rock,physical,100,80,5
+Giga Impact,TM152,normal,physical,150,90,5
+Outrage,TM156,dragon,physical,120,100,10
+Hurricane,TM160,flying,special,110,70,10
+Hyper Beam,TM163,normal,special,150,90,5
+Draco Meteor,TM169,dragon,special,130,90,5
+Tera Blast,TM171,normal,special,80,100,10
+Roar,TM172,normal,other,--,101,20
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Temper Flare,TM207,fire,physical,75,100,10
+Breaking Swipe,TM222,dragon,physical,60,100,15
+Dragon Cheer,TM226,dragon,other,--,101,15

@@ -1,0 +1,65 @@
+name,source,type,category,power,accuracy,pp
+Gust,nature,flying,special,40,100,35
+Ember,nature,fire,special,40,100,25
+Bug Bite,nature,bug,physical,60,100,20
+Poison Powder,lv. 7,poison,other,--,75,35
+Stun Spore,lv. 7,grass,other,--,75,30
+Flame Charge,lv. 14,fire,physical,50,100,20
+Stomp,lv. 21,normal,physical,65,100,20
+Low Sweep,lv. 28,fighting,physical,65,100,20
+Morning Sun,lv. 35,normal,other,--,101,5
+Lunge,lv. 42,bug,physical,80,100,15
+Superpower,lv. 49,fighting,physical,120,100,5
+Bulk Up,lv. 56,fighting,other,--,101,20
+Dual Wingbeat,lv. 63,flying,physical,40,90,10
+First Impression,lv. 70,bug,physical,90,100,10
+Whirlwind,lv. 77,normal,other,--,101,20
+Leech Life,lv. 84,bug,physical,80,100,10
+Thrash,lv. 91,normal,physical,120,100,10
+Take Down,TM001,normal,physical,90,85,20
+Protect,TM007,normal,other,--,101,10
+Low Kick,TM012,fighting,physical,??,100,20
+Acrobatics,TM014,flying,physical,55,100,15
+Trailblaze,TM020,grass,physical,50,100,20
+Facade,TM025,normal,physical,70,100,20
+Aerial Ace,TM027,flying,physical,60,101,20
+Flame Charge,TM038,fire,physical,50,100,20
+Low Sweep,TM039,fighting,physical,65,100,20
+Endure,TM047,normal,other,--,101,10
+Sunny Day,TM049,fire,other,--,101,5
+Rain Dance,TM050,water,other,--,101,5
+Sandstorm,TM051,rock,other,--,101,10
+Brick Break,TM058,fighting,physical,75,100,15
+Zen Headbutt,TM059,psychic,physical,80,90,15
+U-turn,TM060,bug,physical,70,100,20
+Bulk Up,TM064,fighting,other,--,101,20
+Body Slam,TM066,normal,physical,85,100,15
+Sleep Talk,TM070,normal,other,--,101,10
+Stomping Tantrum,TM084,ground,physical,75,100,10
+Rest,TM085,psychic,other,--,101,5
+Body Press,TM089,fighting,physical,80,100,10
+Leech Life,TM095,bug,physical,80,100,10
+Substitute,TM103,normal,other,--,101,10
+Will-O-Wisp,TM107,fire,other,--,85,15
+Giga Drain,TM111,grass,special,75,100,10
+Heat Wave,TM118,fire,special,95,90,10
+Heavy Slam,TM121,steel,physical,??,100,10
+Reversal,TM134,fighting,physical,??,100,15
+Wild Charge,TM147,electric,physical,90,100,15
+Earthquake,TM149,ground,physical,100,100,10
+Giga Impact,TM152,normal,physical,150,90,5
+Hurricane,TM160,flying,special,110,70,10
+Bug Buzz,TM162,bug,special,90,100,10
+Hyper Beam,TM163,normal,special,150,90,5
+Flare Blitz,TM165,fire,physical,120,100,15
+Close Combat,TM167,fighting,physical,120,100,5
+Tera Blast,TM171,normal,special,80,100,10
+Bug Bite,TM182,bug,physical,60,100,20
+Lunge,TM185,bug,physical,80,100,15
+High Horsepower,TM186,ground,physical,95,95,10
+Heat Crash,TM189,fire,physical,??,100,10
+Dual Wingbeat,TM197,flying,physical,40,90,10
+Double-Edge,TM204,normal,physical,120,100,15
+Temper Flare,TM207,fire,physical,75,100,10
+Skitter Smack,TM219,bug,physical,70,90,10
+Curse,TM224,ghost,other,--,101,10
