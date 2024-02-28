@@ -1,6 +1,6 @@
 # ❤️🖤🤍 auto-pokedex ❤️🖤🤍
 
-These are the codes and data of the project told in .
+These are the codes and data of the project told in https://medium.com/@virtualmartire/i-built-an-algorithm-that-finds-the-optimal-pokemon-team-01ea152824a9.
 
 ## algorithms
 
@@ -20,4 +20,4 @@ In the attackdex folder you can find the single-pokemon learnable attacks data i
 - main data source: https://serebii.net/
 - weaknesses table: https://github.com/zonination/pokemon-chart/blob/master/chart.csv
 - types HEX colors: https://gist.github.com/apaleslimghost/0d25ec801ca4fc43317bcff298af43c3
-- pokemon images: https://img.pokemondb.net
+- pokemon images: https://pokemondb.net
